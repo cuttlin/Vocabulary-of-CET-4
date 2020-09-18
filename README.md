@@ -22,7 +22,7 @@
 │   ├── A.txt   
 │   ├── B.txt  
 │   └── ...  
-├── JSON  //JSON文件的单词库
+├── JSON  //JSON文件的单词库    
 └── SQLServer // SQL server单词库  
   ├── Words.mdf // 数据库文件  
   └── Words_log.ldf // 日志文件  
