@@ -1,0 +1,1442 @@
+[
+  {
+    "initial": "D",
+    "mean": "a.每日的n.日报",
+    "phonetic_symbol": "[‘deili]",
+    "word": "﻿daily"
+  },
+  {
+    "initial": "D",
+    "mean": "n.牛奶场;乳制品",
+    "phonetic_symbol": "[‘dɛəri]",
+    "word": "dairy"
+  },
+  {
+    "initial": "D",
+    "mean": "n.水坝,水堤;障碍物",
+    "phonetic_symbol": "[dæm]",
+    "word": "dam"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.损害,毁坏n.损害",
+    "phonetic_symbol": "[‘dæmidʒ]",
+    "word": "damage"
+  },
+  {
+    "initial": "D",
+    "mean": "a.潮湿的,有湿气的",
+    "phonetic_symbol": "[dæmp]",
+    "word": "damp"
+  },
+  {
+    "initial": "D",
+    "mean": "vi.跳舞;摇晃n.舞",
+    "phonetic_symbol": "[dɑ:ns]",
+    "word": "dance"
+  },
+  {
+    "initial": "D",
+    "mean": "n.危险;危险事物",
+    "phonetic_symbol": "[‘deindʒə]",
+    "word": "danger"
+  },
+  {
+    "initial": "D",
+    "mean": "a.危险的,不安全的",
+    "phonetic_symbol": "[‘deindʒərəs]",
+    "word": "dangerous"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.&aux.v.敢;竟敢",
+    "phonetic_symbol": "[dɛə]",
+    "word": "dare"
+  },
+  {
+    "initial": "D",
+    "mean": "a.大胆的,勇敢的",
+    "phonetic_symbol": "[‘deərɪŋ]",
+    "word": "daring"
+  },
+  {
+    "initial": "D",
+    "mean": "a.暗的;黑色的",
+    "phonetic_symbol": "[dɑ:k]",
+    "word": "dark"
+  },
+  {
+    "initial": "D",
+    "mean": "n.亲爱的人;宠儿",
+    "phonetic_symbol": "[‘dɑ:liŋ]",
+    "word": "darling"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.使猛撞;溅n.猛冲",
+    "phonetic_symbol": "[dæʃ]",
+    "word": "dash"
+  },
+  {
+    "initial": "D",
+    "mean": "n.数据;资料",
+    "phonetic_symbol": "[‘deitə]",
+    "word": "data"
+  },
+  {
+    "initial": "D",
+    "mean": "n.日期vt.注…日期",
+    "phonetic_symbol": "[deit]",
+    "word": "date"
+  },
+  {
+    "initial": "D",
+    "mean": "n.女儿",
+    "phonetic_symbol": "[‘dɔ:tə]",
+    "word": "daughter"
+  },
+  {
+    "initial": "D",
+    "mean": "n.黎明;开端vi.破晓",
+    "phonetic_symbol": "[dɔ:n]",
+    "word": "dawn"
+  },
+  {
+    "initial": "D",
+    "mean": "n.(一)天,白昼,白天",
+    "phonetic_symbol": "[dei]",
+    "word": "day"
+  },
+  {
+    "initial": "D",
+    "mean": "n.白昼,日光;黎明",
+    "phonetic_symbol": "[‘deilait]",
+    "word": "daylight"
+  },
+  {
+    "initial": "D",
+    "mean": "a.死的,无生命的",
+    "phonetic_symbol": "[ded]",
+    "word": "dead"
+  },
+  {
+    "initial": "D",
+    "mean": "a.致命的,死一般的",
+    "phonetic_symbol": "[‘dedli]",
+    "word": "deadly"
+  },
+  {
+    "initial": "D",
+    "mean": "a.聋的;不愿听的",
+    "phonetic_symbol": "[def]",
+    "word": "deaf"
+  },
+  {
+    "initial": "D",
+    "mean": "n.买卖;待遇vt.给予",
+    "phonetic_symbol": "[di:l]",
+    "word": "deal"
+  },
+  {
+    "initial": "D",
+    "mean": "a.亲爱的int.啊",
+    "phonetic_symbol": "[diə]",
+    "word": "dear"
+  },
+  {
+    "initial": "D",
+    "mean": "n.死,死亡;灭亡",
+    "phonetic_symbol": "[deθ]",
+    "word": "death"
+  },
+  {
+    "initial": "D",
+    "mean": "n.&vi.争论,辩论",
+    "phonetic_symbol": "[di’beit]",
+    "word": "debate"
+  },
+  {
+    "initial": "D",
+    "mean": "n.债,债务,欠债",
+    "phonetic_symbol": "[det]",
+    "word": "debt"
+  },
+  {
+    "initial": "D",
+    "mean": "n.十年,十年期",
+    "phonetic_symbol": "[‘dekeid，dɪ’keɪd]",
+    "word": "decade"
+  },
+  {
+    "initial": "D",
+    "mean": "vi.腐烂;衰败n.腐烂",
+    "phonetic_symbol": "[di’kei]",
+    "word": "decay"
+  },
+  {
+    "initial": "D",
+    "mean": "n.欺骗,欺诈",
+    "phonetic_symbol": "[di’si:t]",
+    "word": "deceit"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.欺骗,蒙蔽,行骗",
+    "phonetic_symbol": "[di’si:v]",
+    "word": "deceive"
+  },
+  {
+    "initial": "D",
+    "mean": "n.十二月",
+    "phonetic_symbol": "[di’sembə]",
+    "word": "December"
+  },
+  {
+    "initial": "D",
+    "mean": "a.正派的;体面的",
+    "phonetic_symbol": "[‘di:sənt，’diːsnt]",
+    "word": "decent"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.决定,决心;解决",
+    "phonetic_symbol": "[di’said]",
+    "word": "decide"
+  },
+  {
+    "initial": "D",
+    "mean": "n.决定,决心;果断",
+    "phonetic_symbol": "[di’siʒən]",
+    "word": "decision"
+  },
+  {
+    "initial": "D",
+    "mean": "n.甲板;舱面;层面",
+    "phonetic_symbol": "[dek]",
+    "word": "deck"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.断言;声明;表明",
+    "phonetic_symbol": "[di’klɛə]",
+    "word": "declare"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.装饰,装璜,修饰",
+    "phonetic_symbol": "[‘dekəreit]",
+    "word": "decorate"
+  },
+  {
+    "initial": "D",
+    "mean": "vi.&n.减少,减少",
+    "phonetic_symbol": "[di:’kri:s]",
+    "word": "decrease"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.演绎,推论,推断",
+    "phonetic_symbol": "[di’dju:s]",
+    "word": "deduce"
+  },
+  {
+    "initial": "D",
+    "mean": "n.行为;功绩;契约",
+    "phonetic_symbol": "[di:d]",
+    "word": "deed"
+  },
+  {
+    "initial": "D",
+    "mean": "a.深的;纵深的",
+    "phonetic_symbol": "[di:p]",
+    "word": "deep"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.加深vi.深化",
+    "phonetic_symbol": "[‘di:pən]",
+    "word": "deepen"
+  },
+  {
+    "initial": "D",
+    "mean": "n.鹿",
+    "phonetic_symbol": "[diə]",
+    "word": "deer"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.战胜,击败;挫败",
+    "phonetic_symbol": "[di’fi:t]",
+    "word": "defeat"
+  },
+  {
+    "initial": "D",
+    "mean": "n.缺点,缺陷,欠缺",
+    "phonetic_symbol": "[di’fekt]",
+    "word": "defect"
+  },
+  {
+    "initial": "D",
+    "mean": "n.防御;防务;辩护",
+    "phonetic_symbol": "[di’fens]",
+    "word": "defence"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.保卫,防守",
+    "phonetic_symbol": "[di’fend]",
+    "word": "defend"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.给…下定义;限定",
+    "phonetic_symbol": "[di’fain]",
+    "word": "define"
+  },
+  {
+    "initial": "D",
+    "mean": "a.明确的;肯定的",
+    "phonetic_symbol": "[‘definit]",
+    "word": "definite"
+  },
+  {
+    "initial": "D",
+    "mean": "ad.一定地,明确地",
+    "phonetic_symbol": "[‘definitli]",
+    "word": "definitely"
+  },
+  {
+    "initial": "D",
+    "mean": "n.定义,释义;定界",
+    "phonetic_symbol": "[defi’niʃən]",
+    "word": "definition"
+  },
+  {
+    "initial": "D",
+    "mean": "n.程度;度;学位",
+    "phonetic_symbol": "[di’ɡri:]",
+    "word": "degree"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.推迟;耽搁;延误",
+    "phonetic_symbol": "[di’lei]",
+    "word": "delay"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.删除;擦掉",
+    "phonetic_symbol": "[di’li:t]",
+    "word": "delete"
+  },
+  {
+    "initial": "D",
+    "mean": "n.代表团",
+    "phonetic_symbol": "[delɪ’geɪʃən]",
+    "word": "delegation"
+  },
+  {
+    "initial": "D",
+    "mean": "a.纤细的;易碎的",
+    "phonetic_symbol": "[‘delikit]",
+    "word": "delicate"
+  },
+  {
+    "initial": "D",
+    "mean": "a.美味的,怡人的",
+    "phonetic_symbol": "[di’liʃəs]",
+    "word": "delicious"
+  },
+  {
+    "initial": "D",
+    "mean": "n.快乐vt.使高兴",
+    "phonetic_symbol": "[di’lait]",
+    "word": "delight"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.投递,送交;发表",
+    "phonetic_symbol": "[di’livə]",
+    "word": "deliver"
+  },
+  {
+    "initial": "D",
+    "mean": "n.投递;交付;分娩",
+    "phonetic_symbol": "[di’livəri]",
+    "word": "delivery"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.要求;需要;询问",
+    "phonetic_symbol": "[di’mɑ:nd]",
+    "word": "demand"
+  },
+  {
+    "initial": "D",
+    "mean": "n.民主,民主制",
+    "phonetic_symbol": "[di’mɔkrəsi]",
+    "word": "democracy"
+  },
+  {
+    "initial": "D",
+    "mean": "a.民主的,民主政体的",
+    "phonetic_symbol": "[demə’krætik]",
+    "word": "democratic"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.说明;论证;表露",
+    "phonetic_symbol": "[‘demənstreit]",
+    "word": "demonstrate"
+  },
+  {
+    "initial": "D",
+    "mean": "a.密集的;浓厚的",
+    "phonetic_symbol": "[dens]",
+    "word": "dense"
+  },
+  {
+    "initial": "D",
+    "mean": "n.密集,稠密;密度",
+    "phonetic_symbol": "[‘densiti]",
+    "word": "density"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.否定;拒绝相信",
+    "phonetic_symbol": "[di’nai]",
+    "word": "deny"
+  },
+  {
+    "initial": "D",
+    "mean": "vi.离开,起程;出发",
+    "phonetic_symbol": "[di’pɑ:t]",
+    "word": "depart"
+  },
+  {
+    "initial": "D",
+    "mean": "n.部,司,局,处,系",
+    "phonetic_symbol": "[di’pɑ:tmənt]",
+    "word": "department"
+  },
+  {
+    "initial": "D",
+    "mean": "n.离开,出发,起程depend[di’pend]vi.依靠,依赖;相信",
+    "phonetic_symbol": "[di’pɑ:tʃə，dɪ’pɑːtʃə(r)]",
+    "word": "departure"
+  },
+  {
+    "initial": "D",
+    "mean": "a.依靠的,依赖的",
+    "phonetic_symbol": "[di’pendənt]",
+    "word": "dependent"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.使沉淀;存放",
+    "phonetic_symbol": "[di’pɔzit]",
+    "word": "deposit"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.使沮丧;按下",
+    "phonetic_symbol": "[di’pres]",
+    "word": "depress"
+  },
+  {
+    "initial": "D",
+    "mean": "n.深度;深厚;深处",
+    "phonetic_symbol": "[depθ]",
+    "word": "depth"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.取得vi.起源",
+    "phonetic_symbol": "[di’raiv]",
+    "word": "derive"
+  },
+  {
+    "initial": "D",
+    "mean": "vi.下来,下降;下倾",
+    "phonetic_symbol": "[di’send]",
+    "word": "descend"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.形容;描写,描绘",
+    "phonetic_symbol": "[dis’kraib]",
+    "word": "describe"
+  },
+  {
+    "initial": "D",
+    "mean": "n.描写,形容;种类",
+    "phonetic_symbol": "[dis’kripʃn]",
+    "word": "description"
+  },
+  {
+    "initial": "D",
+    "mean": "n.沙漠vt.离弃;擅离",
+    "phonetic_symbol": "[‘dezət]",
+    "word": "desert"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.应受,值得",
+    "phonetic_symbol": "[di’zə:v]",
+    "word": "deserve"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.设计n.设计;图样",
+    "phonetic_symbol": "[di’zain]",
+    "word": "design"
+  },
+  {
+    "initial": "D",
+    "mean": "a.值得相望的;可取的",
+    "phonetic_symbol": "[di’zaiərəbl]",
+    "word": "desirable"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.相望;要求n.愿望",
+    "phonetic_symbol": "[di’zaiə]",
+    "word": "desire"
+  },
+  {
+    "initial": "D",
+    "mean": "n.书桌,办公桌",
+    "phonetic_symbol": "[desk]",
+    "word": "desk"
+  },
+  {
+    "initial": "D",
+    "mean": "n.绝望vi.绝望",
+    "phonetic_symbol": "[dis’pɛə]",
+    "word": "despair"
+  },
+  {
+    "initial": "D",
+    "mean": "a.拼死的;绝望的",
+    "phonetic_symbol": "[‘despərit]",
+    "word": "desperate"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.鄙视,蔑视",
+    "phonetic_symbol": "[dis’paiz]",
+    "word": "despise"
+  },
+  {
+    "initial": "D",
+    "mean": "prep.不管,不顾",
+    "phonetic_symbol": "[dis’pait]",
+    "word": "despite"
+  },
+  {
+    "initial": "D",
+    "mean": "n.目的地,终点;目标",
+    "phonetic_symbol": "[desti’neiʃən]",
+    "word": "destination"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.破坏;消灭;打破",
+    "phonetic_symbol": "[dis’trɔi]",
+    "word": "destroy"
+  },
+  {
+    "initial": "D",
+    "mean": "n.破坏,毁灭,消灭",
+    "phonetic_symbol": "[dis’trʌkʃən]",
+    "word": "destruction"
+  },
+  {
+    "initial": "D",
+    "mean": "n.细节;枝节;零件",
+    "phonetic_symbol": "[‘di:teil]",
+    "word": "detail"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.察觉,发觉;侦察",
+    "phonetic_symbol": "[di’tekt]",
+    "word": "detect"
+  },
+  {
+    "initial": "D",
+    "mean": "n.察觉,发觉;侦察",
+    "phonetic_symbol": "[di’tekʃən]",
+    "word": "detection"
+  },
+  {
+    "initial": "D",
+    "mean": "n.决心;决定;确定determine[di’tə:min]vt.决定;查明;决心",
+    "phonetic_symbol": "[ditə:mi’neiʃən]",
+    "word": "determination"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.发展;形成;开发",
+    "phonetic_symbol": "[di’veləp]",
+    "word": "develop"
+  },
+  {
+    "initial": "D",
+    "mean": "n.发展;开发;生长",
+    "phonetic_symbol": "[di’veləpmənt]",
+    "word": "development"
+  },
+  {
+    "initial": "D",
+    "mean": "n.器械,装置;设计",
+    "phonetic_symbol": "[di’vais]",
+    "word": "device"
+  },
+  {
+    "initial": "D",
+    "mean": "n.魔鬼,恶魔",
+    "phonetic_symbol": "[‘devl]",
+    "word": "devil"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.设计,发明",
+    "phonetic_symbol": "[di’vaiz]",
+    "word": "devise"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.将…奉献,致力于",
+    "phonetic_symbol": "[di’vəut]",
+    "word": "devote"
+  },
+  {
+    "initial": "D",
+    "mean": "n.露,露水",
+    "phonetic_symbol": "[dju:]",
+    "word": "dew"
+  },
+  {
+    "initial": "D",
+    "mean": "n.图解,图表,简图",
+    "phonetic_symbol": "[‘daiəɡræm]",
+    "word": "diagram"
+  },
+  {
+    "initial": "D",
+    "mean": "n.钟面;拨号盘vt.拨",
+    "phonetic_symbol": "[‘daiəl]",
+    "word": "dial"
+  },
+  {
+    "initial": "D",
+    "mean": "n.方言,土语,地方话",
+    "phonetic_symbol": "[‘daiəlekt]",
+    "word": "dialect"
+  },
+  {
+    "initial": "D",
+    "mean": "n.对话,对白",
+    "phonetic_symbol": "[‘daiəlɔɡ]",
+    "word": "dialog"
+  },
+  {
+    "initial": "D",
+    "mean": "n.直径",
+    "phonetic_symbol": "[dai’æmitə]",
+    "word": "diameter"
+  },
+  {
+    "initial": "D",
+    "mean": "n.金钢石,钻石;菱形",
+    "phonetic_symbol": "[‘daiəmənd]",
+    "word": "diamond"
+  },
+  {
+    "initial": "D",
+    "mean": "n.日记,日记簿",
+    "phonetic_symbol": "[‘daiəri]",
+    "word": "diary"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.&vi.口授;命令",
+    "phonetic_symbol": "[dik’teit]",
+    "word": "dictate"
+  },
+  {
+    "initial": "D",
+    "mean": "n.口授笔录,听写",
+    "phonetic_symbol": "[dik’teiʃən]",
+    "word": "dictation"
+  },
+  {
+    "initial": "D",
+    "mean": "n.词典,字典",
+    "phonetic_symbol": "[‘dikʃənəri]",
+    "word": "dictionary"
+  },
+  {
+    "initial": "D",
+    "mean": "vi.死,死亡;灭亡",
+    "phonetic_symbol": "[dai]",
+    "word": "die"
+  },
+  {
+    "initial": "D",
+    "mean": "vi.不同,相异",
+    "phonetic_symbol": "[‘difə]",
+    "word": "differ"
+  },
+  {
+    "initial": "D",
+    "mean": "n.差别;差;分歧",
+    "phonetic_symbol": "[‘difərəns]",
+    "word": "difference"
+  },
+  {
+    "initial": "D",
+    "mean": "a.差异的;各种的",
+    "phonetic_symbol": "[‘difərənt]",
+    "word": "different"
+  },
+  {
+    "initial": "D",
+    "mean": "a.困难的;难对付的",
+    "phonetic_symbol": "[‘difikəlt]",
+    "word": "difficult"
+  },
+  {
+    "initial": "D",
+    "mean": "a.困难;难事;困境",
+    "phonetic_symbol": "[‘difikəlti]",
+    "word": "difficulty"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.掘,挖;采掘",
+    "phonetic_symbol": "[diɡ]",
+    "word": "dig"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.消化;领会n.文摘",
+    "phonetic_symbol": "[dai’dʒest]",
+    "word": "digest"
+  },
+  {
+    "initial": "D",
+    "mean": "a.数字的,计数的",
+    "phonetic_symbol": "[‘didʒitəl]",
+    "word": "digital"
+  },
+  {
+    "initial": "D",
+    "mean": "a.勤勉的,勤奋的",
+    "phonetic_symbol": "[‘dilidʒənt]",
+    "word": "diligent"
+  },
+  {
+    "initial": "D",
+    "mean": "a.昏暗的;朦胧的",
+    "phonetic_symbol": "[dim]",
+    "word": "dim"
+  },
+  {
+    "initial": "D",
+    "mean": "n.尺寸,尺度;面积",
+    "phonetic_symbol": "[di’menʃən]",
+    "word": "dimension"
+  },
+  {
+    "initial": "D",
+    "mean": "n.正餐,主餐;宴会",
+    "phonetic_symbol": "[‘dinə]",
+    "word": "dinner"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.浸,蘸vi.浸一浸",
+    "phonetic_symbol": "[dip]",
+    "word": "dip"
+  },
+  {
+    "initial": "D",
+    "mean": "a.直接的;直率的",
+    "phonetic_symbol": "[di’rekt]",
+    "word": "direct"
+  },
+  {
+    "initial": "D",
+    "mean": "n.方向,方位;指导",
+    "phonetic_symbol": "[di’rekʃən]",
+    "word": "direction"
+  },
+  {
+    "initial": "D",
+    "mean": "ad.直接地;立即",
+    "phonetic_symbol": "[di’rektli]",
+    "word": "directly"
+  },
+  {
+    "initial": "D",
+    "mean": "n.指导者;理事;导演dirt[də:t]n.尘,土;污物,污垢",
+    "phonetic_symbol": "[di’rektə，də’rektə(r)，daɪ-]",
+    "word": "director"
+  },
+  {
+    "initial": "D",
+    "mean": "a.脏的;下流的",
+    "phonetic_symbol": "[‘də:ti]",
+    "word": "dirty"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.使无能,使伤残",
+    "phonetic_symbol": "[dis’eibl]",
+    "word": "disable"
+  },
+  {
+    "initial": "D",
+    "mean": "n.不利,不利地位",
+    "phonetic_symbol": "[disəd’vɑ:ntidʒ]",
+    "word": "disadvantage"
+  },
+  {
+    "initial": "D",
+    "mean": "vi.有分歧;不一致",
+    "phonetic_symbol": "[disə’ɡri:]",
+    "word": "disagree"
+  },
+  {
+    "initial": "D",
+    "mean": "vi.不见,失踪;消失",
+    "phonetic_symbol": "[disə’piə]",
+    "word": "disappear"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.使失望,使受挫折",
+    "phonetic_symbol": "[disə’pɔint]",
+    "word": "disappoint"
+  },
+  {
+    "initial": "D",
+    "mean": "n.灾难,灾祸;天灾",
+    "phonetic_symbol": "[di’zɑ:stə]",
+    "word": "disaster"
+  },
+  {
+    "initial": "D",
+    "mean": "n.圆盘,唱片;磁盘",
+    "phonetic_symbol": "[disk]",
+    "word": "disk"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.丢弃,抛弃,遗弃",
+    "phonetic_symbol": "[dis’kɑ:d]",
+    "word": "discard"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.释放;排出n.释放",
+    "phonetic_symbol": "[dis’tʃɑ:dʒ]",
+    "word": "discharge"
+  },
+  {
+    "initial": "D",
+    "mean": "n.纪律;训练vt.训练",
+    "phonetic_symbol": "[‘disiplin]",
+    "word": "discipline"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.揭开,揭发;透露",
+    "phonetic_symbol": "[dis’kləuz]",
+    "word": "disclose"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.使泄气,使灰心",
+    "phonetic_symbol": "[dis’kʌridʒ]",
+    "word": "discourage"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.发现;暴露,显示",
+    "phonetic_symbol": "[dis’kʌvə]",
+    "word": "discover"
+  },
+  {
+    "initial": "D",
+    "mean": "n.发现;被发现的事物",
+    "phonetic_symbol": "[dis’kʌvəri]",
+    "word": "discovery"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.讨论,谈论;论述",
+    "phonetic_symbol": "[dis’kʌs]",
+    "word": "discuss"
+  },
+  {
+    "initial": "D",
+    "mean": "n.讨论,谈论;论述",
+    "phonetic_symbol": "[dis’kʌʃən]",
+    "word": "discussion"
+  },
+  {
+    "initial": "D",
+    "mean": "n.病,疾病;病害",
+    "phonetic_symbol": "[di’zi:z]",
+    "word": "disease"
+  },
+  {
+    "initial": "D",
+    "mean": "vi.隐瞒,掩埋n.假装",
+    "phonetic_symbol": "[dis’ɡaiz]",
+    "word": "disguise"
+  },
+  {
+    "initial": "D",
+    "mean": "n.厌恶,憎恶",
+    "phonetic_symbol": "[dis’ɡʌst]",
+    "word": "disgust"
+  },
+  {
+    "initial": "D",
+    "mean": "n.碟,盘子;菜肴",
+    "phonetic_symbol": "[diʃ]",
+    "word": "dish"
+  },
+  {
+    "initial": "D",
+    "mean": "n.不光彩;丢脸的人",
+    "phonetic_symbol": "[dis’ɔnə]",
+    "word": "dishonour"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.&n.不喜爱,厌恶",
+    "phonetic_symbol": "[dis’laik]",
+    "word": "dislike"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.不再考虑;解雇",
+    "phonetic_symbol": "[dis’mis]",
+    "word": "dismiss"
+  },
+  {
+    "initial": "D",
+    "mean": "n.混乱,杂乱;骚乱",
+    "phonetic_symbol": "[dis’ɔ:də]",
+    "word": "disorder"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.陈列,展览;显示",
+    "phonetic_symbol": "[dis’plei]",
+    "word": "display"
+  },
+  {
+    "initial": "D",
+    "mean": "n.丢掉,处理,销毁",
+    "phonetic_symbol": "[dis’pəuzəl]",
+    "word": "disposal"
+  },
+  {
+    "initial": "D",
+    "mean": "vi.去掉,丢掉;销毁",
+    "phonetic_symbol": "[dis’pəuz]",
+    "word": "dispose"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.使不愉快,使生气",
+    "phonetic_symbol": "[dɪs’pli:z]",
+    "word": "displease"
+  },
+  {
+    "initial": "D",
+    "mean": "vi.争论,争执n.争论",
+    "phonetic_symbol": "[dis’pju:t]",
+    "word": "dispute"
+  },
+  {
+    "initial": "D",
+    "mean": "vi.使不满,使不平",
+    "phonetic_symbol": "[dɪs’sætɪsfaɪ]",
+    "word": "dissatisfy"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.使溶解;解散",
+    "phonetic_symbol": "[di‘zɔlv]",
+    "word": "dissolve"
+  },
+  {
+    "initial": "D",
+    "mean": "n.距离,间距;远处",
+    "phonetic_symbol": "[‘distəns]",
+    "word": "distance"
+  },
+  {
+    "initial": "D",
+    "mean": "a.在远处的,疏远的",
+    "phonetic_symbol": "[‘distənt]",
+    "word": "distant"
+  },
+  {
+    "initial": "D",
+    "mean": "a.与其他不同的",
+    "phonetic_symbol": "[dis’tiŋkt]",
+    "word": "distinct"
+  },
+  {
+    "initial": "D",
+    "mean": "n.差别,不同,区分",
+    "phonetic_symbol": "[dis’tiŋkʃən]",
+    "word": "distinction"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.区别,辨别,认别",
+    "phonetic_symbol": "[dis’tiŋɡwiʃ]",
+    "word": "distinguish"
+  },
+  {
+    "initial": "D",
+    "mean": "n.忧虑,悲伤;不幸",
+    "phonetic_symbol": "[dis’tres]",
+    "word": "distress"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.分发,分送;分布",
+    "phonetic_symbol": "[dis’tribju:t]",
+    "word": "distribute"
+  },
+  {
+    "initial": "D",
+    "mean": "n.分发,分配;分布",
+    "phonetic_symbol": "[distri’bju:ʃən]",
+    "word": "distribution"
+  },
+  {
+    "initial": "D",
+    "mean": "n.区;地区,区域",
+    "phonetic_symbol": "[‘distrikt]",
+    "word": "district"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.打扰,扰乱;弄乱",
+    "phonetic_symbol": "[dis’tə:b]",
+    "word": "disturb"
+  },
+  {
+    "initial": "D",
+    "mean": "n.沟,沟渠,渠道",
+    "phonetic_symbol": "[ditʃ]",
+    "word": "ditch"
+  },
+  {
+    "initial": "D",
+    "mean": "vi.跳水;潜水;俯冲",
+    "phonetic_symbol": "[daiv]",
+    "word": "dive"
+  },
+  {
+    "initial": "D",
+    "mean": "a.不一样的,相异的",
+    "phonetic_symbol": "[dai’vəs，daɪ’vɜːs]",
+    "word": "diverse"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.分;分配;分开",
+    "phonetic_symbol": "[di’vaid]",
+    "word": "divide"
+  },
+  {
+    "initial": "D",
+    "mean": "n.分,分配;除法",
+    "phonetic_symbol": "[di’viʒən]",
+    "word": "division"
+  },
+  {
+    "initial": "D",
+    "mean": "n.离婚,离异vi.离婚",
+    "phonetic_symbol": "[di’vɔ:sei]",
+    "word": "divorce"
+  },
+  {
+    "initial": "D",
+    "mean": "aux.v.vt.做,干,办",
+    "phonetic_symbol": "[du:,du,də,d]",
+    "word": "do"
+  },
+  {
+    "initial": "D",
+    "mean": "n.船坞;码头;船厂",
+    "phonetic_symbol": "[dɔk]",
+    "word": "dock"
+  },
+  {
+    "initial": "D",
+    "mean": "n.医生,医师;博士",
+    "phonetic_symbol": "[‘dɔktə]",
+    "word": "doctor"
+  },
+  {
+    "initial": "D",
+    "mean": "n.公文,文件;证件",
+    "phonetic_symbol": "[‘dɔkjumənt]",
+    "word": "document"
+  },
+  {
+    "initial": "D",
+    "mean": "n.狗,犬,犬科动物",
+    "phonetic_symbol": "[dɔɡ]",
+    "word": "dog"
+  },
+  {
+    "initial": "D",
+    "mean": "n.元(货币单位)",
+    "phonetic_symbol": "[‘dɔlə]",
+    "word": "dollar"
+  },
+  {
+    "initial": "D",
+    "mean": "a.本国的;家庭的",
+    "phonetic_symbol": "[də’mestik]",
+    "word": "domestic"
+  },
+  {
+    "initial": "D",
+    "mean": "n.驴;笨蛋",
+    "phonetic_symbol": "['dɔŋki]",
+    "word": "donkey"
+  },
+  {
+    "initial": "D",
+    "mean": "n.门,通道;一家",
+    "phonetic_symbol": "[dɔ:]",
+    "word": "door"
+  },
+  {
+    "initial": "D",
+    "mean": "n.宿舍",
+    "phonetic_symbol": "[dɔ:m]",
+    "word": "dorm"
+  },
+  {
+    "initial": "D",
+    "mean": "n.集体寝室;宿舍",
+    "phonetic_symbol": "[‘dɔ:mitri]",
+    "word": "dormitory"
+  },
+  {
+    "initial": "D",
+    "mean": "n.剂量,用量;一剂",
+    "phonetic_symbol": "[dəus]",
+    "word": "dose"
+  },
+  {
+    "initial": "D",
+    "mean": "n.点,圆点vt.打点于",
+    "phonetic_symbol": "[dɔt]",
+    "word": "dot"
+  },
+  {
+    "initial": "D",
+    "mean": "a.两倍的;双的",
+    "phonetic_symbol": "[‘dʌbl]",
+    "word": "double"
+  },
+  {
+    "initial": "D",
+    "mean": "n.怀疑;疑虑vt.怀疑",
+    "phonetic_symbol": "[daut]",
+    "word": "doubt"
+  },
+  {
+    "initial": "D",
+    "mean": "a.难以预测的;怀疑的",
+    "phonetic_symbol": "[‘dautful]",
+    "word": "doubtful"
+  },
+  {
+    "initial": "D",
+    "mean": "ad.无疑地;很可能",
+    "phonetic_symbol": "[‘dautlis]",
+    "word": "doubtless"
+  },
+  {
+    "initial": "D",
+    "mean": "ad.向下,在下面",
+    "phonetic_symbol": "[daun]",
+    "word": "down"
+  },
+  {
+    "initial": "D",
+    "mean": "ad.在楼下a.楼下的",
+    "phonetic_symbol": "[‘daun’stɛəz]",
+    "word": "downstairs"
+  },
+  {
+    "initial": "D",
+    "mean": "a.向下的ad.向下地",
+    "phonetic_symbol": "[‘daunwəd]",
+    "word": "downward"
+  },
+  {
+    "initial": "D",
+    "mean": "n.一打,十二个",
+    "phonetic_symbol": "[‘dʌzn]",
+    "word": "dozen"
+  },
+  {
+    "initial": "D",
+    "mean": "n.草稿;汇票vt.起草",
+    "phonetic_symbol": "[drɑ:ft]",
+    "word": "draft"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.拖,拉;拖曳",
+    "phonetic_symbol": "[dræɡ]",
+    "word": "drag"
+  },
+  {
+    "initial": "D",
+    "mean": "n.龙;凶暴的人",
+    "phonetic_symbol": "[‘dræɡən]",
+    "word": "dragon"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.排去;放水n.耗竭",
+    "phonetic_symbol": "[drein]",
+    "word": "drain"
+  },
+  {
+    "initial": "D",
+    "mean": "n.一出戏剧,剧本",
+    "phonetic_symbol": "[‘drɑ:mə]",
+    "word": "drama"
+  },
+  {
+    "initial": "D",
+    "mean": "a.引人注目的,戏剧的",
+    "phonetic_symbol": "[drə’mætik]",
+    "word": "dramatic"
+  },
+  {
+    "initial": "D",
+    "mean": ".画,划;拖;拨出",
+    "phonetic_symbol": "[drɔ:]",
+    "word": "drawvt"
+  },
+  {
+    "initial": "D",
+    "mean": "n.抽屉",
+    "phonetic_symbol": "[drɔ:]",
+    "word": "drawer"
+  },
+  {
+    "initial": "D",
+    "mean": "n.图画,素描;绘图",
+    "phonetic_symbol": "[‘drɔ:ɪŋ]",
+    "word": "drawing"
+  },
+  {
+    "initial": "D",
+    "mean": "n.畏惧;恐怖vt.惧怕",
+    "phonetic_symbol": "[dred]",
+    "word": "dread"
+  },
+  {
+    "initial": "D",
+    "mean": "n.梦;梦想vi.做梦",
+    "phonetic_symbol": "[dri:m]",
+    "word": "dream"
+  },
+  {
+    "initial": "D",
+    "mean": "n.女服,童装;服装",
+    "phonetic_symbol": "[dres]",
+    "word": "dress"
+  },
+  {
+    "initial": "D",
+    "mean": "vi.漂流,漂泊n.漂流",
+    "phonetic_symbol": "[drift]",
+    "word": "drift"
+  },
+  {
+    "initial": "D",
+    "mean": "n.钻头;操练vi.钻孔",
+    "phonetic_symbol": "[dril]",
+    "word": "drill"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.饮vi.喝n.饮料",
+    "phonetic_symbol": "[driŋk]",
+    "word": "drink"
+  },
+  {
+    "initial": "D",
+    "mean": "vi.滴下;漏水n.水滴",
+    "phonetic_symbol": "[drip]",
+    "word": "drip"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.驾驶;打入;驱",
+    "phonetic_symbol": "[draiv]",
+    "word": "drive"
+  },
+  {
+    "initial": "D",
+    "mean": "n.驾驶员,司机",
+    "phonetic_symbol": "[‘draivə]",
+    "word": "driver"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.使落下;降低",
+    "phonetic_symbol": "[drɔp]",
+    "word": "drop"
+  },
+  {
+    "initial": "D",
+    "mean": "n.旱灾,干旱",
+    "phonetic_symbol": "[draut]",
+    "word": "drought"
+  },
+  {
+    "initial": "D",
+    "mean": "vi.淹死,溺死",
+    "phonetic_symbol": "[draun]",
+    "word": "drown"
+  },
+  {
+    "initial": "D",
+    "mean": "n.药,药物,药材",
+    "phonetic_symbol": "[drʌɡ]",
+    "word": "drug"
+  },
+  {
+    "initial": "D",
+    "mean": "n.鼓;鼓状物,圆桶",
+    "phonetic_symbol": "[drʌm]",
+    "word": "drum"
+  },
+  {
+    "initial": "D",
+    "mean": "a.醉的;陶醉的",
+    "phonetic_symbol": "[drʌŋk]",
+    "word": "drunk"
+  },
+  {
+    "initial": "D",
+    "mean": "a.干的,干燥的",
+    "phonetic_symbol": "[drai]",
+    "word": "dry"
+  },
+  {
+    "initial": "D",
+    "mean": "n.鸭,雌鸭;鸭肉",
+    "phonetic_symbol": "[dʌk]",
+    "word": "duck"
+  },
+  {
+    "initial": "D",
+    "mean": "a.预期的;应给的",
+    "phonetic_symbol": "[dju:]",
+    "word": "due"
+  },
+  {
+    "initial": "D",
+    "mean": "a.枯燥的;不鲜明的",
+    "phonetic_symbol": "[dʌl]",
+    "word": "dull"
+  },
+  {
+    "initial": "D",
+    "mean": "a.哑的;无言的",
+    "phonetic_symbol": "[dʌm]",
+    "word": "dumb"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.倾卸,倾倒;倾销",
+    "phonetic_symbol": "[dʌmp]",
+    "word": "dump"
+  },
+  {
+    "initial": "D",
+    "mean": "a.耐久的,耐用的",
+    "phonetic_symbol": "[‘djuərəbl]",
+    "word": "durable"
+  },
+  {
+    "initial": "D",
+    "mean": "n.持续,持久",
+    "phonetic_symbol": "[djuə’reiʃən]",
+    "word": "duration"
+  },
+  {
+    "initial": "D",
+    "mean": "prep.在…期间",
+    "phonetic_symbol": "[‘djuəriŋ]",
+    "word": "during"
+  },
+  {
+    "initial": "D",
+    "mean": "n.薄暮,黄昏,幽暗",
+    "phonetic_symbol": "[dʌsk]",
+    "word": "dusk"
+  },
+  {
+    "initial": "D",
+    "mean": "n.尘土,灰尘",
+    "phonetic_symbol": "[dʌst]",
+    "word": "dust"
+  },
+  {
+    "initial": "D",
+    "mean": "n.职责;责任;税",
+    "phonetic_symbol": "[‘dju:ti]",
+    "word": "duty"
+  },
+  {
+    "initial": "D",
+    "mean": "n.住处,寓所",
+    "phonetic_symbol": "[‘dwelɪŋ]",
+    "word": "dwelling"
+  },
+  {
+    "initial": "D",
+    "mean": "vt.染n.染料;染色",
+    "phonetic_symbol": "[dai]",
+    "word": "dye"
+  },
+  {
+    "initial": "D",
+    "mean": "a.垂死的;临终的",
+    "phonetic_symbol": "[‘daɪɪŋ]",
+    "word": "dying"
+  },
+  {
+    "initial": "D",
+    "mean": "a.有活力的;动力的",
+    "phonetic_symbol": "[dai’næmik]",
+    "word": "dynamic"
+  }
+]

@@ -1,0 +1,1172 @@
+[
+  {
+    "initial": "E",
+    "mean": "pron.各，各自a.各",
+    "phonetic_symbol": "/i:tʃ/",
+    "word": "﻿each"
+  },
+  {
+    "initial": "E",
+    "mean": "a.渴望的，热切的",
+    "phonetic_symbol": "/‘i:gə/",
+    "word": "eager"
+  },
+  {
+    "initial": "E",
+    "mean": "n.鹰",
+    "phonetic_symbol": "/‘i:gl/",
+    "word": "eagle"
+  },
+  {
+    "initial": "E",
+    "mean": "n.耳朵;听力，听觉",
+    "phonetic_symbol": "/iə/",
+    "word": "ear"
+  },
+  {
+    "initial": "E",
+    "mean": "ad.早a.早的，早期的",
+    "phonetic_symbol": "/‘ə:li/",
+    "word": "early"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.赚得，挣得;获得",
+    "phonetic_symbol": "/ə:n/",
+    "word": "earn"
+  },
+  {
+    "initial": "E",
+    "mean": "a.认真的，诚恳的",
+    "phonetic_symbol": "/‘ə:nist/",
+    "word": "earnest"
+  },
+  {
+    "initial": "E",
+    "mean": "n.地球;陆地，地面",
+    "phonetic_symbol": "/ə:θ/",
+    "word": "earth"
+  },
+  {
+    "initial": "E",
+    "mean": "n.地震;大震荡",
+    "phonetic_symbol": "/‘ə:θkweik/",
+    "word": "earthquake"
+  },
+  {
+    "initial": "E",
+    "mean": "n.容易，舒适vt.缓和",
+    "phonetic_symbol": "/i:z/",
+    "word": "ease"
+  },
+  {
+    "initial": "E",
+    "mean": "n.东;东部ad.在东方",
+    "phonetic_symbol": "/i:st/",
+    "word": "east"
+  },
+  {
+    "initial": "E",
+    "mean": "a.东方的;朝东的",
+    "phonetic_symbol": "/‘i:stən/",
+    "word": "eastern"
+  },
+  {
+    "initial": "E",
+    "mean": "a.容易的;安逸的",
+    "phonetic_symbol": "/‘i:zi/",
+    "word": "easy"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.吃，喝vi.吃饭",
+    "phonetic_symbol": "/i:t/",
+    "word": "eat"
+  },
+  {
+    "initial": "E",
+    "mean": "n.回声，反响vi.重复",
+    "phonetic_symbol": "/‘ekəu/",
+    "word": "echo"
+  },
+  {
+    "initial": "E",
+    "mean": "a.经济的，经济学的",
+    "phonetic_symbol": "/i:kə’nɔmik/",
+    "word": "economic"
+  },
+  {
+    "initial": "E",
+    "mean": "a.节约的;经济学的",
+    "phonetic_symbol": "/i:kə’nɔmikəl/",
+    "word": "economical"
+  },
+  {
+    "initial": "E",
+    "mean": "n.经济;节约，节省",
+    "phonetic_symbol": "/i(:)’kɔnəmi/",
+    "word": "economy"
+  },
+  {
+    "initial": "E",
+    "mean": "n.边缘，边;刀口",
+    "phonetic_symbol": "/edʒ/",
+    "word": "edge"
+  },
+  {
+    "initial": "E",
+    "mean": "n.版，版本，版次",
+    "phonetic_symbol": "/i’diʃən/",
+    "word": "edition"
+  },
+  {
+    "initial": "E",
+    "mean": "n.编辑，编者，校订者",
+    "phonetic_symbol": "/‘editə/",
+    "word": "editor"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.教育;培养;训练",
+    "phonetic_symbol": "/‘edju(:)keit/",
+    "word": "educate"
+  },
+  {
+    "initial": "E",
+    "mean": "n.教育;训导;教育学",
+    "phonetic_symbol": "/edju:’keiʃən/",
+    "word": "education"
+  },
+  {
+    "initial": "E",
+    "mean": "n.结果;效果，效力",
+    "phonetic_symbol": "/i’fekt/",
+    "word": "effect"
+  },
+  {
+    "initial": "E",
+    "mean": "a.有效的;有影响的",
+    "phonetic_symbol": "/i’fektiv/",
+    "word": "effective"
+  },
+  {
+    "initial": "E",
+    "mean": "n.效率;功效，效能",
+    "phonetic_symbol": "/i’fiʃənsi/",
+    "word": "efficiency"
+  },
+  {
+    "initial": "E",
+    "mean": "a.效率高的，有能力的",
+    "phonetic_symbol": "/i’fiʃənt/",
+    "word": "efficient"
+  },
+  {
+    "initial": "E",
+    "mean": "n.努力;努力的成果",
+    "phonetic_symbol": "/‘efət/",
+    "word": "effort"
+  },
+  {
+    "initial": "E",
+    "mean": "n.蛋，鸡蛋，卵",
+    "phonetic_symbol": "/eg/",
+    "word": "egg"
+  },
+  {
+    "initial": "E",
+    "mean": "num.八，八个，第八",
+    "phonetic_symbol": "/eit/",
+    "word": "eight"
+  },
+  {
+    "initial": "E",
+    "mean": "num.十八，十八个",
+    "phonetic_symbol": "/‘ei’ti:n/",
+    "word": "eighteen"
+  },
+  {
+    "initial": "E",
+    "mean": "num.第八n.八分之一",
+    "phonetic_symbol": "/eitθ/",
+    "word": "eighth"
+  },
+  {
+    "initial": "E",
+    "mean": "num.八十，八十个",
+    "phonetic_symbol": "/‘eiti/",
+    "word": "eighty"
+  },
+  {
+    "initial": "E",
+    "mean": "pron.(两者)任何一个",
+    "phonetic_symbol": "/‘aiðə,‘i:ðə/",
+    "word": "either"
+  },
+  {
+    "initial": "E",
+    "mean": "a.复杂的;精心制作的",
+    "phonetic_symbol": "/i’læbərit/",
+    "word": "elaborate"
+  },
+  {
+    "initial": "E",
+    "mean": "n.松紧带a.有弹性的",
+    "phonetic_symbol": "/i’læstik/",
+    "word": "elastic"
+  },
+  {
+    "initial": "E",
+    "mean": "a.年龄较大的n.长者",
+    "phonetic_symbol": "/‘eldə/",
+    "word": "elder"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.选举，推选;选择",
+    "phonetic_symbol": "/i’lekt/",
+    "word": "elect"
+  },
+  {
+    "initial": "E",
+    "mean": "n.选举，选择权;当选",
+    "phonetic_symbol": "/i’lekʃən/",
+    "word": "election"
+  },
+  {
+    "initial": "E",
+    "mean": "a.电的，电动的",
+    "phonetic_symbol": "/i’lektrik/",
+    "word": "electric"
+  },
+  {
+    "initial": "E",
+    "mean": "a.电的，电气科学的",
+    "phonetic_symbol": "/i’lektrikəl/",
+    "word": "electrical"
+  },
+  {
+    "initial": "E",
+    "mean": "n.电，电学;电流",
+    "phonetic_symbol": "/ilek’trisiti/",
+    "word": "electricity"
+  },
+  {
+    "initial": "E",
+    "mean": "n.电子",
+    "phonetic_symbol": "/i’lektrɔn/",
+    "word": "electron"
+  },
+  {
+    "initial": "E",
+    "mean": "a.电子的",
+    "phonetic_symbol": "/ilek’trɔnik/",
+    "word": "electronic"
+  },
+  {
+    "initial": "E",
+    "mean": "n.成分;要素;元素",
+    "phonetic_symbol": "/‘elimənt/",
+    "word": "element"
+  },
+  {
+    "initial": "E",
+    "mean": "a.基本的;初级的",
+    "phonetic_symbol": "/eli’mentəri/",
+    "word": "elementary"
+  },
+  {
+    "initial": "E",
+    "mean": "n.象",
+    "phonetic_symbol": "/‘elifənt/",
+    "word": "elephant"
+  },
+  {
+    "initial": "E",
+    "mean": "n.电梯;升降机",
+    "phonetic_symbol": "/‘eliveitə/",
+    "word": "elevator"
+  },
+  {
+    "initial": "E",
+    "mean": "num.十一，十一个",
+    "phonetic_symbol": "/i’levn/",
+    "word": "eleven"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.消灭，消除，排除",
+    "phonetic_symbol": "/i’limineit/",
+    "word": "eliminate"
+  },
+  {
+    "initial": "E",
+    "mean": "ad.其它，另外a.别的",
+    "phonetic_symbol": "/els/",
+    "word": "else"
+  },
+  {
+    "initial": "E",
+    "mean": "ad.在别处，向别处",
+    "phonetic_symbol": "/els’weə/",
+    "word": "elsewhere"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.使窘迫，使为难",
+    "phonetic_symbol": "/im’bærəs/",
+    "word": "embarrass"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.拥抱;包括;包围",
+    "phonetic_symbol": "/im’breis/",
+    "word": "embrace"
+  },
+  {
+    "initial": "E",
+    "mean": "vi.出现，涌现;冒出",
+    "phonetic_symbol": "/i’mə:dʒ/",
+    "word": "emerge"
+  },
+  {
+    "initial": "E",
+    "mean": "n.紧急情况，突然事件",
+    "phonetic_symbol": "/i’mə:dʒənsi/",
+    "word": "emergency"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.散发;发射;发表",
+    "phonetic_symbol": "/i’mit/",
+    "word": "emit"
+  },
+  {
+    "initial": "E",
+    "mean": "n.情感，感情;激动",
+    "phonetic_symbol": "/i’məuʃən/",
+    "word": "emotion"
+  },
+  {
+    "initial": "E",
+    "mean": "a.感情的，情绪的",
+    "phonetic_symbol": "/i’məuʃənl/",
+    "word": "emotional"
+  },
+  {
+    "initial": "E",
+    "mean": "n.皇帝",
+    "phonetic_symbol": "/‘empərə/",
+    "word": "emperor"
+  },
+  {
+    "initial": "E",
+    "mean": "n.强调，重点，重要性",
+    "phonetic_symbol": "/‘emfəsis/",
+    "word": "emphasis"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.强调，着重",
+    "phonetic_symbol": "/‘emfəsaiz/",
+    "word": "emphasize"
+  },
+  {
+    "initial": "E",
+    "mean": "n.帝国",
+    "phonetic_symbol": "/‘empaiə/",
+    "word": "empire"
+  },
+  {
+    "initial": "E",
+    "mean": "vi.雇用;用;使忙于",
+    "phonetic_symbol": "/im’plɔi/",
+    "word": "employ"
+  },
+  {
+    "initial": "E",
+    "mean": "n.受雇者，雇员，雇工",
+    "phonetic_symbol": "/emplɔi’i:/",
+    "word": "employee"
+  },
+  {
+    "initial": "E",
+    "mean": "n.雇佣者，雇主",
+    "phonetic_symbol": "/im’plɔiə/",
+    "word": "employer"
+  },
+  {
+    "initial": "E",
+    "mean": "n.工业;雇用;使用",
+    "phonetic_symbol": "/im’plɔimənt/",
+    "word": "employment"
+  },
+  {
+    "initial": "E",
+    "mean": "a.空的;空洞的",
+    "phonetic_symbol": "/‘empti/",
+    "word": "empty"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.使能够，使可能",
+    "phonetic_symbol": "/i’neibl/",
+    "word": "enable"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.围住，圈起;附上",
+    "phonetic_symbol": "/in’kləuz/",
+    "word": "enclose"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.遭遇，遇到n.遭遇",
+    "phonetic_symbol": "/in’kauntə/",
+    "word": "encounter"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.鼓励，支持，助长",
+    "phonetic_symbol": "/in’kΛridʒ/",
+    "word": "encourage"
+  },
+  {
+    "initial": "E",
+    "mean": "n.末端;目标vt.结束",
+    "phonetic_symbol": "/end/",
+    "word": "end"
+  },
+  {
+    "initial": "E",
+    "mean": "n.结尾，结局;死亡",
+    "phonetic_symbol": "/‘endiŋ/",
+    "word": "ending"
+  },
+  {
+    "initial": "E",
+    "mean": "a.无止境的",
+    "phonetic_symbol": "/‘endlis/",
+    "word": "endless"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.忍受;容忍",
+    "phonetic_symbol": "/in’djuə/",
+    "word": "endure"
+  },
+  {
+    "initial": "E",
+    "mean": "n.敌人;仇敌;敌兵",
+    "phonetic_symbol": "/‘enimi/",
+    "word": "enemy"
+  },
+  {
+    "initial": "E",
+    "mean": "n.活力;精力;能",
+    "phonetic_symbol": "/‘enədʒi/",
+    "word": "energy"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.实施，执行;强制",
+    "phonetic_symbol": "/in’fɔ:s/",
+    "word": "enforce"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.使从事于;聘用",
+    "phonetic_symbol": "/in’geidʒ/",
+    "word": "engage"
+  },
+  {
+    "initial": "E",
+    "mean": "n.发动机，引擎;机车",
+    "phonetic_symbol": "/‘endʒin/",
+    "word": "engine"
+  },
+  {
+    "initial": "E",
+    "mean": "n.工程师，技师",
+    "phonetic_symbol": "/endʒi’niə/",
+    "word": "engineer"
+  },
+  {
+    "initial": "E",
+    "mean": "n.工程，工程学",
+    "phonetic_symbol": "/endʒi’niəriŋ/",
+    "word": "engineering"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.扩大，扩展;放大",
+    "phonetic_symbol": "/in’la:dʒ/",
+    "word": "enlarge"
+  },
+  {
+    "initial": "E",
+    "mean": "a.巨大的，庞大的",
+    "phonetic_symbol": "/i’nɔ:məs/",
+    "word": "enormous"
+  },
+  {
+    "initial": "E",
+    "mean": "a.足够的ad.足够地",
+    "phonetic_symbol": "/i’nΛf/",
+    "word": "enough"
+  },
+  {
+    "initial": "E",
+    "mean": "vi.vt.询问",
+    "phonetic_symbol": "/in’kwaiə/",
+    "word": "enquire"
+  },
+  {
+    "initial": "E",
+    "mean": "n.询问",
+    "phonetic_symbol": "//",
+    "word": "enquiry"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.保证;保护;赋予",
+    "phonetic_symbol": "/in’ʃuə/",
+    "word": "ensure"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.使欢乐;招待",
+    "phonetic_symbol": "/entə’tein/",
+    "word": "entertain"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.给…权利(或资格)",
+    "phonetic_symbol": "/in’θju:ziæzəm/n.热情，热心，热忱entitle/in’taitl/",
+    "word": "enthusiasm"
+  },
+  {
+    "initial": "E",
+    "mean": "n.入口处;登记;进入",
+    "phonetic_symbol": "/‘entri/",
+    "word": "entry"
+  },
+  {
+    "initial": "E",
+    "mean": "n.环境，外界;围绕",
+    "phonetic_symbol": "/in’vaiərənmənt/",
+    "word": "environment"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.&n.妒忌;羡慕",
+    "phonetic_symbol": "/‘envi/",
+    "word": "envy"
+  },
+  {
+    "initial": "E",
+    "mean": "a.相等的;平等的",
+    "phonetic_symbol": "/‘i:kwəl/",
+    "word": "equal"
+  },
+  {
+    "initial": "E",
+    "mean": "n.等同，平等;相等",
+    "phonetic_symbol": "/i(:)’kwɔliti/",
+    "word": "equality"
+  },
+  {
+    "initial": "E",
+    "mean": "n.方程(式);等式",
+    "phonetic_symbol": "/i’kweiʃən/",
+    "word": "equation"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.装备，配备",
+    "phonetic_symbol": "/i’kwip/",
+    "word": "equip"
+  },
+  {
+    "initial": "E",
+    "mean": "n.装备，设备，配备",
+    "phonetic_symbol": "/i’kwipmənt/",
+    "word": "equipment"
+  },
+  {
+    "initial": "E",
+    "mean": "a.相等的;等量的",
+    "phonetic_symbol": "/i’kwivələnt/",
+    "word": "equivalent"
+  },
+  {
+    "initial": "E",
+    "mean": "n.时代，年代;纪元",
+    "phonetic_symbol": "/‘iərə/",
+    "word": "era"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.建造;使竖立",
+    "phonetic_symbol": "/i’rekt/",
+    "word": "erect"
+  },
+  {
+    "initial": "E",
+    "mean": "n.错误，谬误;差错",
+    "phonetic_symbol": "/‘erə/",
+    "word": "error"
+  },
+  {
+    "initial": "E",
+    "mean": "vi.逃跑;逸出n.逃跑",
+    "phonetic_symbol": "/is’keip/",
+    "word": "escape"
+  },
+  {
+    "initial": "E",
+    "mean": "ad.特别，尤其，格外",
+    "phonetic_symbol": "/is’peʃəli/",
+    "word": "especially"
+  },
+  {
+    "initial": "E",
+    "mean": "n.短文，散文，小品文",
+    "phonetic_symbol": "/‘esei/",
+    "word": "essay"
+  },
+  {
+    "initial": "E",
+    "mean": "a.必要的，本质的",
+    "phonetic_symbol": "/i’senʃəl/",
+    "word": "essential"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.建立，设立;确立",
+    "phonetic_symbol": "/is’tæbliʃ/",
+    "word": "establish"
+  },
+  {
+    "initial": "E",
+    "mean": "n.建立，设立，确立",
+    "phonetic_symbol": "/is’tæbliʃmənt/",
+    "word": "establishment"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.估计，评价n.估计",
+    "phonetic_symbol": "/‘estimit,‘estimeit/",
+    "word": "estimate"
+  },
+  {
+    "initial": "E",
+    "mean": "n.欧洲",
+    "phonetic_symbol": "/‘juərəp/",
+    "word": "Europe"
+  },
+  {
+    "initial": "E",
+    "mean": "a.欧洲的n.欧洲人",
+    "phonetic_symbol": "/juərə’pi:ən/",
+    "word": "European"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.评价，估…的价",
+    "phonetic_symbol": "/i’væljueit/",
+    "word": "evaluate"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.使蒸发vi.蒸发",
+    "phonetic_symbol": "/i’væpəreit/",
+    "word": "evaporate"
+  },
+  {
+    "initial": "E",
+    "mean": "n.前夜，前夕，前一刻",
+    "phonetic_symbol": "/i:v/",
+    "word": "eve"
+  },
+  {
+    "initial": "E",
+    "mean": "ad.甚至;甚至更，还",
+    "phonetic_symbol": "/‘i:vən/",
+    "word": "even"
+  },
+  {
+    "initial": "E",
+    "mean": "a.均匀的;平的",
+    "phonetic_symbol": "/‘i:vən/",
+    "word": "even"
+  },
+  {
+    "initial": "E",
+    "mean": "n.傍晚，黄昏，晚上",
+    "phonetic_symbol": "/‘i:vniŋ/",
+    "word": "evening"
+  },
+  {
+    "initial": "E",
+    "mean": "n.事件，大事;事变",
+    "phonetic_symbol": "/i’vent/",
+    "word": "event"
+  },
+  {
+    "initial": "E",
+    "mean": "ad.终于;最后",
+    "phonetic_symbol": "/i’ventjuəli/",
+    "word": "eventually"
+  },
+  {
+    "initial": "E",
+    "mean": "ad.在任何时候;曾经",
+    "phonetic_symbol": "/‘evə/",
+    "word": "ever"
+  },
+  {
+    "initial": "E",
+    "mean": "a.每一的;每隔…的",
+    "phonetic_symbol": "/‘evri/",
+    "word": "every"
+  },
+  {
+    "initial": "E",
+    "mean": "pron.每人，人人",
+    "phonetic_symbol": "/‘evribɔdi/",
+    "word": "everybody"
+  },
+  {
+    "initial": "E",
+    "mean": "a.每天的，日常的",
+    "phonetic_symbol": "/‘evridei/",
+    "word": "everyday"
+  },
+  {
+    "initial": "E",
+    "mean": "pron.每人，人人",
+    "phonetic_symbol": "/‘evriwΛn/",
+    "word": "everyone"
+  },
+  {
+    "initial": "E",
+    "mean": "pron.每件事，事事",
+    "phonetic_symbol": "/‘evriθiŋ/",
+    "word": "everything"
+  },
+  {
+    "initial": "E",
+    "mean": "ad.到处，处处",
+    "phonetic_symbol": "/‘evriweə/",
+    "word": "everywhere"
+  },
+  {
+    "initial": "E",
+    "mean": "n.根据;证据，证人",
+    "phonetic_symbol": "/‘evidəns/",
+    "word": "evidence"
+  },
+  {
+    "initial": "E",
+    "mean": "a.明显的，明白的",
+    "phonetic_symbol": "/‘evidənt/",
+    "word": "evident"
+  },
+  {
+    "initial": "E",
+    "mean": "n.邪恶;祸害a.坏的",
+    "phonetic_symbol": "/‘i:vl/",
+    "word": "evil"
+  },
+  {
+    "initial": "E",
+    "mean": "n.进化，演化;发展",
+    "phonetic_symbol": "/i:və’lju:ʃən/",
+    "word": "evolution"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.使进化;使发展",
+    "phonetic_symbol": "/i’vɔlv/",
+    "word": "evolve"
+  },
+  {
+    "initial": "E",
+    "mean": "a.确切的;精确的",
+    "phonetic_symbol": "/ig’zækt/",
+    "word": "exact"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.&vi.夸大，夸张",
+    "phonetic_symbol": "/ig’zædʒəreit/",
+    "word": "exaggerate"
+  },
+  {
+    "initial": "E",
+    "mean": "n.考试;检查，细查",
+    "phonetic_symbol": "/ig’zæm/",
+    "word": "exam"
+  },
+  {
+    "initial": "E",
+    "mean": "n.考试;检查，细查",
+    "phonetic_symbol": "/igzæmi’neiʃən/",
+    "word": "examination"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.检查，仔细观察",
+    "phonetic_symbol": "/ig’zæmin/",
+    "word": "examine"
+  },
+  {
+    "initial": "E",
+    "mean": "n.例子，实例;模范",
+    "phonetic_symbol": "/ig’za:mpl/",
+    "word": "example"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.超过，胜过;超出",
+    "phonetic_symbol": "/ik’si:d/",
+    "word": "exceed"
+  },
+  {
+    "initial": "E",
+    "mean": "ad.极端地，非常",
+    "phonetic_symbol": "/ik’si:diŋli/",
+    "word": "exceedingly"
+  },
+  {
+    "initial": "E",
+    "mean": "a.优秀的，杰出的",
+    "phonetic_symbol": "/‘eksələnt/",
+    "word": "excellent"
+  },
+  {
+    "initial": "E",
+    "mean": "prep.除…之外",
+    "phonetic_symbol": "/ik’sept/",
+    "word": "except"
+  },
+  {
+    "initial": "E",
+    "mean": "n.例外，除外",
+    "phonetic_symbol": "/ik’sepʃən/",
+    "word": "exception"
+  },
+  {
+    "initial": "E",
+    "mean": "n.超越;过量;过度",
+    "phonetic_symbol": "/ik’ses,‘ekses/",
+    "word": "excess"
+  },
+  {
+    "initial": "E",
+    "mean": "a.过多的，极度的",
+    "phonetic_symbol": "/ik’sesiv/",
+    "word": "excessive"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.交换;交流n.交换",
+    "phonetic_symbol": "/iks’tʃeindʒ/",
+    "word": "exchange"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.使激动;引起",
+    "phonetic_symbol": "/ik’sait/",
+    "word": "excite"
+  },
+  {
+    "initial": "E",
+    "mean": "a.令人兴奋的",
+    "phonetic_symbol": "/ik’saitiŋ/",
+    "word": "exciting"
+  },
+  {
+    "initial": "E",
+    "mean": "vi.呼喊;惊叫",
+    "phonetic_symbol": "/iks’kleim/",
+    "word": "exclaim"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.把…排除在外",
+    "phonetic_symbol": "/iks’klu:d/",
+    "word": "exclude"
+  },
+  {
+    "initial": "E",
+    "mean": "ad.专门地",
+    "phonetic_symbol": "/iks’klu:sivli/",
+    "word": "exclusively"
+  },
+  {
+    "initial": "E",
+    "mean": "n.远足;短途旅行",
+    "phonetic_symbol": "/iks’kə:ʃən/",
+    "word": "excursion"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.原谅;免除n.借口",
+    "phonetic_symbol": "/iks’kju:z,iks’kju:s/",
+    "word": "excuse"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.将…处死;实施",
+    "phonetic_symbol": "/‘eksikju:t/",
+    "word": "execute"
+  },
+  {
+    "initial": "E",
+    "mean": "a.执行的n.执行者",
+    "phonetic_symbol": "/ig’zekjutiv/",
+    "word": "executive"
+  },
+  {
+    "initial": "E",
+    "mean": "n.锻炼，训练vi.练习",
+    "phonetic_symbol": "/‘eksəsaiz/",
+    "word": "exercise"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.尽(力)，运用",
+    "phonetic_symbol": "/ig’zə:t/",
+    "word": "exert"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.使筋疲力尽;用尽",
+    "phonetic_symbol": "/ig’zɔ:st/",
+    "word": "exhaust"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.显示;陈列，展览",
+    "phonetic_symbol": "/ig’zibit/",
+    "word": "exhibit"
+  },
+  {
+    "initial": "E",
+    "mean": "n.展览，陈列;展览会",
+    "phonetic_symbol": "/eksi’biʃən/",
+    "word": "exhibition"
+  },
+  {
+    "initial": "E",
+    "mean": "vi.存在;生存，生活",
+    "phonetic_symbol": "/ig’zist/",
+    "word": "exist"
+  },
+  {
+    "initial": "E",
+    "mean": "n.存在，实在;生存",
+    "phonetic_symbol": "/ig’zistəns/",
+    "word": "existence"
+  },
+  {
+    "initial": "E",
+    "mean": "n.出口;退场vi.退出",
+    "phonetic_symbol": "/‘eksit/",
+    "word": "exit"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.扩大;使膨胀",
+    "phonetic_symbol": "/iks’pænd/",
+    "word": "expand"
+  },
+  {
+    "initial": "E",
+    "mean": "n.扩大，扩充;扩张",
+    "phonetic_symbol": "/iks’pænʃən/",
+    "word": "expansion"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.预料，预期;等待",
+    "phonetic_symbol": "/iks’pekt/",
+    "word": "expect"
+  },
+  {
+    "initial": "E",
+    "mean": "n.期待，期望，预期",
+    "phonetic_symbol": "/ekspek’teiʃən/",
+    "word": "expectation"
+  },
+  {
+    "initial": "E",
+    "mean": "n.花费，消费;费用",
+    "phonetic_symbol": "/iks’pens/",
+    "word": "expense"
+  },
+  {
+    "initial": "E",
+    "mean": "a.昂贵的，花钱多的",
+    "phonetic_symbol": "/iks’pensiv/",
+    "word": "expensive"
+  },
+  {
+    "initial": "E",
+    "mean": "n.经验，感受;经历",
+    "phonetic_symbol": "/iks’piəriəns/",
+    "word": "experience"
+  },
+  {
+    "initial": "E",
+    "mean": "n.实验;试验",
+    "phonetic_symbol": "/iks’perimənt/",
+    "word": "experiment"
+  },
+  {
+    "initial": "E",
+    "mean": "a.实验的，试验的",
+    "phonetic_symbol": "/iksperi’mentl/",
+    "word": "experimental"
+  },
+  {
+    "initial": "E",
+    "mean": "n.专家a.熟练的",
+    "phonetic_symbol": "/‘ekspə:t/",
+    "word": "expert"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.解释;为…辩解",
+    "phonetic_symbol": "/iks’plein/",
+    "word": "explain"
+  },
+  {
+    "initial": "E",
+    "mean": "n.解释，说明;辩解",
+    "phonetic_symbol": "/eksplə’neiʃən/",
+    "word": "explanation"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.使爆炸vi.爆炸",
+    "phonetic_symbol": "/iks’pləud/",
+    "word": "explode"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.剥削;利用;开拓",
+    "phonetic_symbol": "/‘eksplɔit,iks’plɔit/",
+    "word": "explɔit"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.&vi.探险，探索",
+    "phonetic_symbol": "/iks’plɔ:/",
+    "word": "explore"
+  },
+  {
+    "initial": "E",
+    "mean": "n.爆炸，爆发，炸裂",
+    "phonetic_symbol": "/iks’pləuʒən/",
+    "word": "explosion"
+  },
+  {
+    "initial": "E",
+    "mean": "n.炸药a.爆炸的",
+    "phonetic_symbol": "/iks’pləusiv/",
+    "word": "explosive"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.输出，出口;运走",
+    "phonetic_symbol": "/eks’pɔ:t,‘ekspɔ:t/",
+    "word": "export"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.使暴露;揭露",
+    "phonetic_symbol": "/iks’pəuz/",
+    "word": "expose"
+  },
+  {
+    "initial": "E",
+    "mean": "n.暴露;揭露;曝光",
+    "phonetic_symbol": "/iks’pəuʒə/",
+    "word": "exposure"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.表示n.快车，快递",
+    "phonetic_symbol": "/iks’pres/",
+    "word": "express"
+  },
+  {
+    "initial": "E",
+    "mean": "n.词句;表达;表情",
+    "phonetic_symbol": "/iks’preʃən/",
+    "word": "expression"
+  },
+  {
+    "initial": "E",
+    "mean": "vt.延长;扩大;致",
+    "phonetic_symbol": "/iks’tend/",
+    "word": "extend"
+  },
+  {
+    "initial": "E",
+    "mean": "n.延长部分;伸展",
+    "phonetic_symbol": "/iks’tenʃən/",
+    "word": "extension"
+  },
+  {
+    "initial": "E",
+    "mean": "a.广阔的;广泛的",
+    "phonetic_symbol": "/iks’tensiv/",
+    "word": "extensive"
+  },
+  {
+    "initial": "E",
+    "mean": "n.广度;范围;程度",
+    "phonetic_symbol": "/iks’tent/",
+    "word": "extent"
+  },
+  {
+    "initial": "E",
+    "mean": "a.外部的;对外的",
+    "phonetic_symbol": "/eks’tiəriə/",
+    "word": "exterior"
+  },
+  {
+    "initial": "E",
+    "mean": "a.外部的，外面的",
+    "phonetic_symbol": "/eks’tə:nl/",
+    "word": "external"
+  },
+  {
+    "initial": "E",
+    "mean": "a.额外的ad.特别地",
+    "phonetic_symbol": "/‘ekstrə/",
+    "word": "extra"
+  },
+  {
+    "initial": "E",
+    "mean": "a.极度的;尽头的",
+    "phonetic_symbol": "/iks’trɔ:dinəri/a.非同寻常的，特别的extreme/iks’tri:m/",
+    "word": "extraordinary"
+  },
+  {
+    "initial": "E",
+    "mean": "n.眼睛;眼力;鉴赏力",
+    "phonetic_symbol": "/ai/",
+    "word": "eye"
+  },
+  {
+    "initial": "E",
+    "mean": "n.视力，目力",
+    "phonetic_symbol": "/‘aisait/",
+    "word": "eyesight"
+  }
+]

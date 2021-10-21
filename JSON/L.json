@@ -1,0 +1,902 @@
+[
+  {
+    "initial": "L",
+    "mean": "n.实验室，研究室",
+    "phonetic_symbol": "/læb/",
+    "word": "﻿lab"
+  },
+  {
+    "initial": "L",
+    "mean": "n.标签;标记，符号",
+    "phonetic_symbol": "/‘leibl/",
+    "word": "label"
+  },
+  {
+    "initial": "L",
+    "mean": "n.实验室，研究室",
+    "phonetic_symbol": "/lə’bɔrətri/",
+    "word": "laboratory"
+  },
+  {
+    "initial": "L",
+    "mean": "n.劳动;工作;劳工",
+    "phonetic_symbol": "/‘leibə/",
+    "word": "labour"
+  },
+  {
+    "initial": "L",
+    "mean": "vi.&vi.&n.缺乏，不足",
+    "phonetic_symbol": "/læk/",
+    "word": "lack"
+  },
+  {
+    "initial": "L",
+    "mean": "n.梯子，梯状物",
+    "phonetic_symbol": "/‘lædə/",
+    "word": "ladder"
+  },
+  {
+    "initial": "L",
+    "mean": "n.女士，夫人;贵妇人",
+    "phonetic_symbol": "/‘leidi/",
+    "word": "lady"
+  },
+  {
+    "initial": "L",
+    "mean": "vi.走得慢n.落后",
+    "phonetic_symbol": "/læg/",
+    "word": "lag"
+  },
+  {
+    "initial": "L",
+    "mean": "n.湖",
+    "phonetic_symbol": "/leik/",
+    "word": "lake"
+  },
+  {
+    "initial": "L",
+    "mean": "n.灯",
+    "phonetic_symbol": "/læmp/",
+    "word": "lamp"
+  },
+  {
+    "initial": "L",
+    "mean": "n.陆地;土地vi.上岸",
+    "phonetic_symbol": "/lænd/",
+    "word": "land"
+  },
+  {
+    "initial": "L",
+    "mean": "n.地主;房东，店主",
+    "phonetic_symbol": "/‘lændlɔ:d/",
+    "word": "landlord"
+  },
+  {
+    "initial": "L",
+    "mean": "n.(乡间)小路;跑道",
+    "phonetic_symbol": "/lein/",
+    "word": "lane"
+  },
+  {
+    "initial": "L",
+    "mean": "n.语言，语言课程",
+    "phonetic_symbol": "/‘læŋgwidʒ/",
+    "word": "language"
+  },
+  {
+    "initial": "L",
+    "mean": "n.膝部;一圈",
+    "phonetic_symbol": "/læp/",
+    "word": "lap"
+  },
+  {
+    "initial": "L",
+    "mean": "a.大的;巨大的",
+    "phonetic_symbol": "/la:dʒ/",
+    "word": "large"
+  },
+  {
+    "initial": "L",
+    "mean": "ad.大部分;大量地",
+    "phonetic_symbol": "/‘la:dʒli/",
+    "word": "largely"
+  },
+  {
+    "initial": "L",
+    "mean": "n.激光",
+    "phonetic_symbol": "/‘leizə/",
+    "word": "laser"
+  },
+  {
+    "initial": "L",
+    "mean": "a.最后的ad.最后",
+    "phonetic_symbol": "/la:st/",
+    "word": "last"
+  },
+  {
+    "initial": "L",
+    "mean": "vi.持续，持久;耐久",
+    "phonetic_symbol": "/la:st/",
+    "word": "last"
+  },
+  {
+    "initial": "L",
+    "mean": "a.迟的ad.迟，晚",
+    "phonetic_symbol": "/leit/",
+    "word": "late"
+  },
+  {
+    "initial": "L",
+    "mean": "ad.最近，不久前",
+    "phonetic_symbol": "/‘leitli/",
+    "word": "lately"
+  },
+  {
+    "initial": "L",
+    "mean": "ad.后来;过一会儿",
+    "phonetic_symbol": "/‘leitə/",
+    "word": "later"
+  },
+  {
+    "initial": "L",
+    "mean": "a.拉丁的n.拉丁语",
+    "phonetic_symbol": "/‘lætin/",
+    "word": "Latin"
+  },
+  {
+    "initial": "L",
+    "mean": "a.(两者中)后者的",
+    "phonetic_symbol": "/‘lætə/",
+    "word": "latter"
+  },
+  {
+    "initial": "L",
+    "mean": "vi.笑，发笑n.笑",
+    "phonetic_symbol": "/la:f/",
+    "word": "laugh"
+  },
+  {
+    "initial": "L",
+    "mean": "n.笑，笑声",
+    "phonetic_symbol": "/la:ftə/",
+    "word": "laughter"
+  },
+  {
+    "initial": "L",
+    "mean": "vt.发射，投射;发动",
+    "phonetic_symbol": "/lɔ:ntʃ/",
+    "word": "launch"
+  },
+  {
+    "initial": "L",
+    "mean": "n.洗衣房，洗衣店",
+    "phonetic_symbol": "/‘lɔ:ndri/",
+    "word": "laundry"
+  },
+  {
+    "initial": "L",
+    "mean": "n.盥洗室，厕所",
+    "phonetic_symbol": "/‘lævətəri/",
+    "word": "lavatory"
+  },
+  {
+    "initial": "L",
+    "mean": "n.法律，法令;法则",
+    "phonetic_symbol": "/lɔ:/",
+    "word": "law"
+  },
+  {
+    "initial": "L",
+    "mean": "n.草地，草坪，草场",
+    "phonetic_symbol": "/lɔ:n/",
+    "word": "lawn"
+  },
+  {
+    "initial": "L",
+    "mean": "n.律师;法学家",
+    "phonetic_symbol": "/‘lɔ:jə/",
+    "word": "lawyer"
+  },
+  {
+    "initial": "L",
+    "mean": "vt.置放;铺设;设置",
+    "phonetic_symbol": "/lei/",
+    "word": "lay"
+  },
+  {
+    "initial": "L",
+    "mean": "n.层，层次;铺设者",
+    "phonetic_symbol": "/‘leiə/",
+    "word": "layer"
+  },
+  {
+    "initial": "L",
+    "mean": "n.布局，安排，设计",
+    "phonetic_symbol": "/‘leiaut/",
+    "word": "layout"
+  },
+  {
+    "initial": "L",
+    "mean": "a.懒惰的，懒散的",
+    "phonetic_symbol": "/‘leizi/",
+    "word": "lazy"
+  },
+  {
+    "initial": "L",
+    "mean": "vt.为…带路;领导",
+    "phonetic_symbol": "/li:d/",
+    "word": "lead"
+  },
+  {
+    "initial": "L",
+    "mean": "n.铅，铅制品",
+    "phonetic_symbol": "/li:d/",
+    "word": "lead"
+  },
+  {
+    "initial": "L",
+    "mean": "n.领袖，领导人;首领",
+    "phonetic_symbol": "/‘li:də/",
+    "word": "leader"
+  },
+  {
+    "initial": "L",
+    "mean": "n.领导",
+    "phonetic_symbol": "/‘li:dəʃip/",
+    "word": "leadership"
+  },
+  {
+    "initial": "L",
+    "mean": "a.指导的;最主要的",
+    "phonetic_symbol": "/‘li:diŋ/",
+    "word": "leading"
+  },
+  {
+    "initial": "L",
+    "mean": "n.叶，叶子",
+    "phonetic_symbol": "/li:f/",
+    "word": "leaf"
+  },
+  {
+    "initial": "L",
+    "mean": "n.同盟，联盟;联合会",
+    "phonetic_symbol": "/li:g/",
+    "word": "league"
+  },
+  {
+    "initial": "L",
+    "mean": "vi.漏;泄露n.漏洞",
+    "phonetic_symbol": "/li:k/",
+    "word": "leak"
+  },
+  {
+    "initial": "L",
+    "mean": "vi.倾斜，屈身;靠",
+    "phonetic_symbol": "/li:n/",
+    "word": "lean"
+  },
+  {
+    "initial": "L",
+    "mean": "vi.跳，跃n.跳跃",
+    "phonetic_symbol": "/li:p/",
+    "word": "leap"
+  },
+  {
+    "initial": "L",
+    "mean": "vi.&vt.学，学习",
+    "phonetic_symbol": "/lə:n/",
+    "word": "learn"
+  },
+  {
+    "initial": "L",
+    "mean": "a.有学问的;学术上的",
+    "phonetic_symbol": "/‘lə:nid/",
+    "word": "learned"
+  },
+  {
+    "initial": "L",
+    "mean": "n.学习;学问，知识",
+    "phonetic_symbol": "/‘lə:niŋ/",
+    "word": "learning"
+  },
+  {
+    "initial": "L",
+    "mean": "a.最少的ad.最少",
+    "phonetic_symbol": "/li:st/",
+    "word": "least"
+  },
+  {
+    "initial": "L",
+    "mean": "n.皮革;皮革制品",
+    "phonetic_symbol": "/‘leðə/",
+    "word": "leather"
+  },
+  {
+    "initial": "L",
+    "mean": "vi.离去vt.离开",
+    "phonetic_symbol": "/li:v/",
+    "word": "leave"
+  },
+  {
+    "initial": "L",
+    "mean": "n.&vi.演讲，讲课",
+    "phonetic_symbol": "/‘lektʃə/",
+    "word": "lecture"
+  },
+  {
+    "initial": "L",
+    "mean": "a.左边的ad.在左边",
+    "phonetic_symbol": "/left/",
+    "word": "left"
+  },
+  {
+    "initial": "L",
+    "mean": "n.腿，腿部",
+    "phonetic_symbol": "/leg/",
+    "word": "leg"
+  },
+  {
+    "initial": "L",
+    "mean": "a.法律的;合法的",
+    "phonetic_symbol": "/‘li:gl/",
+    "word": "legal"
+  },
+  {
+    "initial": "L",
+    "mean": "n.空闲时间;悠闲",
+    "phonetic_symbol": "/‘leʒə/",
+    "word": "leisure"
+  },
+  {
+    "initial": "L",
+    "mean": "vt.把…借给，贷(款)",
+    "phonetic_symbol": "/lend/",
+    "word": "lend"
+  },
+  {
+    "initial": "L",
+    "mean": "n.长，长度;一段",
+    "phonetic_symbol": "/leŋθ/",
+    "word": "length"
+  },
+  {
+    "initial": "L",
+    "mean": "n.透镜，镜片;镜头",
+    "phonetic_symbol": "/lenz/",
+    "word": "lens"
+  },
+  {
+    "initial": "L",
+    "mean": "a.更少的ad.更少地",
+    "phonetic_symbol": "/les/",
+    "word": "less"
+  },
+  {
+    "initial": "L",
+    "mean": "vt.减少，减轻;缩小",
+    "phonetic_symbol": "/‘lesn/",
+    "word": "lessen"
+  },
+  {
+    "initial": "L",
+    "mean": "n.功课，课;课程",
+    "phonetic_symbol": "/‘lesn/",
+    "word": "lesson"
+  },
+  {
+    "initial": "L",
+    "mean": "conj.惟恐，以免",
+    "phonetic_symbol": "/lest/",
+    "word": "lest"
+  },
+  {
+    "initial": "L",
+    "mean": "vt.允许，让;使",
+    "phonetic_symbol": "/let/",
+    "word": "let"
+  },
+  {
+    "initial": "L",
+    "mean": "n.信;证书;字母",
+    "phonetic_symbol": "/‘letə/",
+    "word": "letter"
+  },
+  {
+    "initial": "L",
+    "mean": "n.水平面a.水平的",
+    "phonetic_symbol": "/‘levl/",
+    "word": "level"
+  },
+  {
+    "initial": "L",
+    "mean": "n.杆，杠杆;控制杆",
+    "phonetic_symbol": "/‘li:və/",
+    "word": "lever"
+  },
+  {
+    "initial": "L",
+    "mean": "a.易于…的;可能的",
+    "phonetic_symbol": "/‘laiəbl/",
+    "word": "liable"
+  },
+  {
+    "initial": "L",
+    "mean": "a.心胸宽大的;慷慨的",
+    "phonetic_symbol": "/‘libərəl/",
+    "word": "liberal"
+  },
+  {
+    "initial": "L",
+    "mean": "vt.解放;释放",
+    "phonetic_symbol": "/‘libəreit/",
+    "word": "liberate"
+  },
+  {
+    "initial": "L",
+    "mean": "n.自由;释放;许可",
+    "phonetic_symbol": "/‘libəti/",
+    "word": "liberty"
+  },
+  {
+    "initial": "L",
+    "mean": "n.图书馆馆长",
+    "phonetic_symbol": "/lai’breəriən/",
+    "word": "librarian"
+  },
+  {
+    "initial": "L",
+    "mean": "n.图书馆;藏书",
+    "phonetic_symbol": "/‘laibrəri/",
+    "word": "library"
+  },
+  {
+    "initial": "L",
+    "mean": "n.许可;执照vt.准许",
+    "phonetic_symbol": "/‘laisəns/",
+    "word": "license"
+  },
+  {
+    "initial": "L",
+    "mean": "n.盖子，盖，囊盖",
+    "phonetic_symbol": "/lid/",
+    "word": "lid"
+  },
+  {
+    "initial": "L",
+    "mean": "vi.躺，平放;位于",
+    "phonetic_symbol": "/lai/",
+    "word": "lie"
+  },
+  {
+    "initial": "L",
+    "mean": "vi.说谎，欺骗n.谎话",
+    "phonetic_symbol": "/lai/",
+    "word": "lie"
+  },
+  {
+    "initial": "L",
+    "mean": "n.生命;一生;寿命",
+    "phonetic_symbol": "/laif/",
+    "word": "life"
+  },
+  {
+    "initial": "L",
+    "mean": "n.一生，终身",
+    "phonetic_symbol": "/‘laiftaim/",
+    "word": "lifetime"
+  },
+  {
+    "initial": "L",
+    "mean": "vt.提起，提高n.电梯",
+    "phonetic_symbol": "/lift/",
+    "word": "lift"
+  },
+  {
+    "initial": "L",
+    "mean": "n.光，光线;灯，光源",
+    "phonetic_symbol": "/lait/",
+    "word": "light"
+  },
+  {
+    "initial": "L",
+    "mean": "a.轻的，少量的",
+    "phonetic_symbol": "/lait/",
+    "word": "light"
+  },
+  {
+    "initial": "L",
+    "mean": "n.闪电，闪电放电",
+    "phonetic_symbol": "/‘laitniŋ/",
+    "word": "lightning"
+  },
+  {
+    "initial": "L",
+    "mean": "vt.喜欢;喜爱;希望",
+    "phonetic_symbol": "/laik/",
+    "word": "like"
+  },
+  {
+    "initial": "L",
+    "mean": "prep.像，如;像要",
+    "phonetic_symbol": "/laik/",
+    "word": "like"
+  },
+  {
+    "initial": "L",
+    "mean": "a.可能的ad.很可能",
+    "phonetic_symbol": "/‘laikli/",
+    "word": "likely"
+  },
+  {
+    "initial": "L",
+    "mean": "ad.同样地;也，又",
+    "phonetic_symbol": "/‘laikwaiz/",
+    "word": "likewise"
+  },
+  {
+    "initial": "L",
+    "mean": "n.肢，臂，翼;树枝",
+    "phonetic_symbol": "/lim/",
+    "word": "limb"
+  },
+  {
+    "initial": "L",
+    "mean": "n.石灰",
+    "phonetic_symbol": "/laim/",
+    "word": "lime"
+  },
+  {
+    "initial": "L",
+    "mean": "n.限度;限制;范围",
+    "phonetic_symbol": "/‘limit/",
+    "word": "limit"
+  },
+  {
+    "initial": "L",
+    "mean": "n.限制;限度，局限",
+    "phonetic_symbol": "/limi’teiʃən/",
+    "word": "limitation"
+  },
+  {
+    "initial": "L",
+    "mean": "a.有限的",
+    "phonetic_symbol": "/‘limitid/",
+    "word": "limited"
+  },
+  {
+    "initial": "L",
+    "mean": "n.线;排;路线;线条",
+    "phonetic_symbol": "/lain/",
+    "word": "line"
+  },
+  {
+    "initial": "L",
+    "mean": "vt.有环连接n.环",
+    "phonetic_symbol": "/liŋk/",
+    "word": "link"
+  },
+  {
+    "initial": "L",
+    "mean": "n.狮子;勇猛的人",
+    "phonetic_symbol": "/‘laiən/",
+    "word": "lion"
+  },
+  {
+    "initial": "L",
+    "mean": "n.嘴唇",
+    "phonetic_symbol": "/lip/",
+    "word": "lip"
+  },
+  {
+    "initial": "L",
+    "mean": "n.液体a.液体的",
+    "phonetic_symbol": "/‘likwid/",
+    "word": "liquid"
+  },
+  {
+    "initial": "L",
+    "mean": "n.酒;溶液，液剂",
+    "phonetic_symbol": "/‘likə/",
+    "word": "liquor"
+  },
+  {
+    "initial": "L",
+    "mean": "n.表，目录n.列举",
+    "phonetic_symbol": "/list/",
+    "word": "list"
+  },
+  {
+    "initial": "L",
+    "mean": "vi.听，留神听;听从",
+    "phonetic_symbol": "/‘lisn/",
+    "word": "listen"
+  },
+  {
+    "initial": "L",
+    "mean": "n.公升",
+    "phonetic_symbol": "/‘li:tə/",
+    "word": "liter"
+  },
+  {
+    "initial": "L",
+    "mean": "n.公升",
+    "phonetic_symbol": "/‘li:tə/",
+    "word": "litre"
+  },
+  {
+    "initial": "L",
+    "mean": "a.文学(上)的",
+    "phonetic_symbol": "/‘litərəri/",
+    "word": "literary"
+  },
+  {
+    "initial": "L",
+    "mean": "n.文学;文献",
+    "phonetic_symbol": "/‘litəritʃə/",
+    "word": "literature"
+  },
+  {
+    "initial": "L",
+    "mean": "a.小的;少;幼小的",
+    "phonetic_symbol": "/‘litl/",
+    "word": "little"
+  },
+  {
+    "initial": "L",
+    "mean": "vi.居住;活a.活的",
+    "phonetic_symbol": "/livlaiv/",
+    "word": "live"
+  },
+  {
+    "initial": "L",
+    "mean": "a.活泼的;逼真的",
+    "phonetic_symbol": "/‘laivli/",
+    "word": "lively"
+  },
+  {
+    "initial": "L",
+    "mean": "n.肝;肝脏",
+    "phonetic_symbol": "/‘livə/",
+    "word": "liver"
+  },
+  {
+    "initial": "L",
+    "mean": "a.活的n.生活，生计",
+    "phonetic_symbol": "/‘liviŋ/",
+    "word": "living"
+  },
+  {
+    "initial": "L",
+    "mean": "n.起居室",
+    "phonetic_symbol": "/‘liviŋ’ru:m/",
+    "word": "living-room"
+  },
+  {
+    "initial": "L",
+    "mean": "vt.装;装满n.负载",
+    "phonetic_symbol": "/ləud/",
+    "word": "load"
+  },
+  {
+    "initial": "L",
+    "mean": "n.一条面包，一个面包",
+    "phonetic_symbol": "/ləuf/",
+    "word": "loaf"
+  },
+  {
+    "initial": "L",
+    "mean": "n.贷款;暂借vt.借出",
+    "phonetic_symbol": "/ləun/",
+    "word": "loan"
+  },
+  {
+    "initial": "L",
+    "mean": "a.地方的;局部的",
+    "phonetic_symbol": "/‘ləukəl/",
+    "word": "local"
+  },
+  {
+    "initial": "L",
+    "mean": "vt.探明，找出，查出",
+    "phonetic_symbol": "/ləu’keit/",
+    "word": "locate"
+  },
+  {
+    "initial": "L",
+    "mean": "n.位置，场所",
+    "phonetic_symbol": "/ləu’keiʃən/",
+    "word": "location"
+  },
+  {
+    "initial": "L",
+    "mean": "n.锁vt.锁上，锁住",
+    "phonetic_symbol": "/lɔk/",
+    "word": "lock"
+  },
+  {
+    "initial": "L",
+    "mean": "vi.暂住，借宿，投宿",
+    "phonetic_symbol": "/lɔdʒ/",
+    "word": "lodge"
+  },
+  {
+    "initial": "L",
+    "mean": "n.原木，木料",
+    "phonetic_symbol": "/lɔg/",
+    "word": "log"
+  },
+  {
+    "initial": "L",
+    "mean": "n.逻辑，推理;逻辑性",
+    "phonetic_symbol": "/‘lɔdʒik/",
+    "word": "logic"
+  },
+  {
+    "initial": "L",
+    "mean": "a.逻辑的;符合逻辑的",
+    "phonetic_symbol": "/‘lɔdʒikəl/",
+    "word": "logical"
+  },
+  {
+    "initial": "L",
+    "mean": "a.孤独的;荒凉的",
+    "phonetic_symbol": "/‘ləunli/",
+    "word": "lonely"
+  },
+  {
+    "initial": "L",
+    "mean": "a.长的;远的ad.长久",
+    "phonetic_symbol": "/lɔŋ/",
+    "word": "long"
+  },
+  {
+    "initial": "L",
+    "mean": "vi.渴望，极想念",
+    "phonetic_symbol": "/lɔŋ/",
+    "word": "long"
+  },
+  {
+    "initial": "L",
+    "mean": "vi.看，显得n.看",
+    "phonetic_symbol": "/luk/",
+    "word": "look"
+  },
+  {
+    "initial": "L",
+    "mean": "n.圈，环，环孔",
+    "phonetic_symbol": "/lu:p/",
+    "word": "loop"
+  },
+  {
+    "initial": "L",
+    "mean": "a.松的;宽松的",
+    "phonetic_symbol": "/lu:s/",
+    "word": "loose"
+  },
+  {
+    "initial": "L",
+    "mean": "vt.解开;使松驰",
+    "phonetic_symbol": "/‘lu:sn/",
+    "word": "loosen"
+  },
+  {
+    "initial": "L",
+    "mean": "n.贵族;上帝，基督",
+    "phonetic_symbol": "/lɔ:d/",
+    "word": "lord"
+  },
+  {
+    "initial": "L",
+    "mean": "n.运货汽车，卡车",
+    "phonetic_symbol": "/‘lɔri/",
+    "word": "lorry"
+  },
+  {
+    "initial": "L",
+    "mean": "vt.失去;迷失;输掉",
+    "phonetic_symbol": "/lu:z/",
+    "word": "lose"
+  },
+  {
+    "initial": "L",
+    "mean": "n.遗失;损失;失败",
+    "phonetic_symbol": "/lɔs/",
+    "word": "loss"
+  },
+  {
+    "initial": "L",
+    "mean": "n.许多，大量;签，阄",
+    "phonetic_symbol": "/lɔt/",
+    "word": "lot"
+  },
+  {
+    "initial": "L",
+    "mean": "a.响亮的;吵闹的",
+    "phonetic_symbol": "/laud/",
+    "word": "loud"
+  },
+  {
+    "initial": "L",
+    "mean": "vt.爱，喜欢n.爱",
+    "phonetic_symbol": "/lΛv/",
+    "word": "love"
+  },
+  {
+    "initial": "L",
+    "mean": "a.可爱的;令人愉快的",
+    "phonetic_symbol": "/‘lΛvli/",
+    "word": "lovely"
+  },
+  {
+    "initial": "L",
+    "mean": "n.爱好者;情人;情侣",
+    "phonetic_symbol": "/lΛvə/",
+    "word": "lover"
+  },
+  {
+    "initial": "L",
+    "mean": "a.低的，矮的;低下的",
+    "phonetic_symbol": "/ləu/",
+    "word": "low"
+  },
+  {
+    "initial": "L",
+    "mean": "a.较低的vt.放下",
+    "phonetic_symbol": "/‘ləuə/",
+    "word": "lower"
+  },
+  {
+    "initial": "L",
+    "mean": "a.忠诚的，忠心的",
+    "phonetic_symbol": "/‘lɔiəl/",
+    "word": "loyal"
+  },
+  {
+    "initial": "L",
+    "mean": "n.忠诚，忠心",
+    "phonetic_symbol": "/‘lɔiəlti/",
+    "word": "loyalty"
+  },
+  {
+    "initial": "L",
+    "mean": "n.运气;好运，幸运",
+    "phonetic_symbol": "/lΛk/",
+    "word": "luck"
+  },
+  {
+    "initial": "L",
+    "mean": "a.幸运的;吉祥的",
+    "phonetic_symbol": "/‘lΛki/",
+    "word": "lucky"
+  },
+  {
+    "initial": "L",
+    "mean": "n.行李;皮箱，皮包",
+    "phonetic_symbol": "/‘lΛgidʒ/",
+    "word": "luggage"
+  },
+  {
+    "initial": "L",
+    "mean": "n.团，块;肿块",
+    "phonetic_symbol": "/lΛmp/",
+    "word": "lump"
+  },
+  {
+    "initial": "L",
+    "mean": "n.午餐，(美)便餐",
+    "phonetic_symbol": "/lΛntʃ/",
+    "word": "lunch"
+  },
+  {
+    "initial": "L",
+    "mean": "n.肺脏，肺",
+    "phonetic_symbol": "/lΛŋ/",
+    "word": "lung"
+  },
+  {
+    "initial": "L",
+    "mean": "n.奢侈，奢华;奢侈品",
+    "phonetic_symbol": "/‘lΛkʃəri/",
+    "word": "luxury"
+  }
+]

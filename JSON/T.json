@@ -1,0 +1,704 @@
+[
+  {
+    "initial": "T",
+    "mean": "n.附加语;标签",
+    "phonetic_symbol": "/tæg/",
+    "word": "﻿tag"
+  },
+  {
+    "initial": "T",
+    "mean": "n.裁缝vt.裁制衣服",
+    "phonetic_symbol": "/‘teilə/",
+    "word": "tailor"
+  },
+  {
+    "initial": "T",
+    "mean": "n.故事，传说",
+    "phonetic_symbol": "/teil/",
+    "word": "tale"
+  },
+  {
+    "initial": "T",
+    "mean": "n.天才;才能;人才",
+    "phonetic_symbol": "/‘tælənt/",
+    "word": "talent"
+  },
+  {
+    "initial": "T",
+    "mean": "vi.讲话vt.谈论",
+    "phonetic_symbol": "/tɔ:k/",
+    "word": "talk"
+  },
+  {
+    "initial": "T",
+    "mean": "a.驯服的;顺从的",
+    "phonetic_symbol": "/teim/",
+    "word": "tame"
+  },
+  {
+    "initial": "T",
+    "mean": "n.坦克;大容器，槽",
+    "phonetic_symbol": "/tæŋk/",
+    "word": "tank"
+  },
+  {
+    "initial": "T",
+    "mean": "vt.&vi.&n.轻叩",
+    "phonetic_symbol": "/tæp/",
+    "word": "tap"
+  },
+  {
+    "initial": "T",
+    "mean": "n.塞子;龙头vt.开发",
+    "phonetic_symbol": "/tæp/",
+    "word": "tap"
+  },
+  {
+    "initial": "T",
+    "mean": "n.味觉，品味",
+    "phonetic_symbol": "/teist/",
+    "word": "taste"
+  },
+  {
+    "initial": "T",
+    "mean": "a.技术的，工艺的",
+    "phonetic_symbol": "/‘teknikəl/",
+    "word": "technical"
+  },
+  {
+    "initial": "T",
+    "mean": "n.技术员，技师",
+    "phonetic_symbol": "/tek’niʃən/",
+    "word": "technician"
+  },
+  {
+    "initial": "T",
+    "mean": "a.冗长乏味的，沉闷的",
+    "phonetic_symbol": "/‘ti:diəs/",
+    "word": "tedious"
+  },
+  {
+    "initial": "T",
+    "mean": "n.电报",
+    "phonetic_symbol": "/‘teligræm/",
+    "word": "telegram"
+  },
+  {
+    "initial": "T",
+    "mean": "n.望远镜",
+    "phonetic_symbol": "/‘teliskəup/",
+    "word": "telescope"
+  },
+  {
+    "initial": "T",
+    "mean": "n.圣堂，神殿，庙宇",
+    "phonetic_symbol": "/‘templ/",
+    "word": "temple"
+  },
+  {
+    "initial": "T",
+    "mean": "a.暂时的，临时的",
+    "phonetic_symbol": "/‘tempərəri/",
+    "word": "temporary"
+  },
+  {
+    "initial": "T",
+    "mean": "vt.引诱，诱惑;吸引",
+    "phonetic_symbol": "/tempt/",
+    "word": "tempt"
+  },
+  {
+    "initial": "T",
+    "mean": "n.诱惑，引诱",
+    "phonetic_symbol": "/temp’teiʃən/",
+    "word": "temptation"
+  },
+  {
+    "initial": "T",
+    "mean": "vt.照管，照料，护理",
+    "phonetic_symbol": "/tend/",
+    "word": "tend"
+  },
+  {
+    "initial": "T",
+    "mean": "vi.走向，趋向;倾向",
+    "phonetic_symbol": "/tend/",
+    "word": "tend"
+  },
+  {
+    "initial": "T",
+    "mean": "n.趋向，趋势，倾向",
+    "phonetic_symbol": "/‘tendənsi/",
+    "word": "tendency"
+  },
+  {
+    "initial": "T",
+    "mean": "a.嫩的;脆弱的",
+    "phonetic_symbol": "/‘tendə/",
+    "word": "tender"
+  },
+  {
+    "initial": "T",
+    "mean": "n.时态，时",
+    "phonetic_symbol": "/tens/",
+    "word": "tense"
+  },
+  {
+    "initial": "T",
+    "mean": "a.拉紧的，绷紧的",
+    "phonetic_symbol": "/tens/",
+    "word": "tense"
+  },
+  {
+    "initial": "T",
+    "mean": "n.紧张,不安,拉紧,张力",
+    "phonetic_symbol": "/‘tenʃən/",
+    "word": "tension"
+  },
+  {
+    "initial": "T",
+    "mean": "a.末端的n.末端",
+    "phonetic_symbol": "/‘tə:minl/",
+    "word": "terminal"
+  },
+  {
+    "initial": "T",
+    "mean": "a.可怕的;极度的",
+    "phonetic_symbol": "/‘terəbl/",
+    "word": "terrible"
+  },
+  {
+    "initial": "T",
+    "mean": "n.领土，版图;领域",
+    "phonetic_symbol": "/‘teritəri/",
+    "word": "territory"
+  },
+  {
+    "initial": "T",
+    "mean": "n.恐怖，惊骇",
+    "phonetic_symbol": "/‘terə/",
+    "word": "terror"
+  },
+  {
+    "initial": "T",
+    "mean": "n.纺织品a.纺织的",
+    "phonetic_symbol": "/‘tekstail/",
+    "word": "textile"
+  },
+  {
+    "initial": "T",
+    "mean": "a.理论(上)的",
+    "phonetic_symbol": "/θiə’retikəl/",
+    "word": "theoretical"
+  },
+  {
+    "initial": "T",
+    "mean": "ad.因此，从而，由此",
+    "phonetic_symbol": "/‘ðeə’bai/",
+    "word": "thereby"
+  },
+  {
+    "initial": "T",
+    "mean": "ad.因此，所以【绝对不可以直接连接两个独立的句子】",
+    "phonetic_symbol": "/‘ðeəfɔ:/",
+    "word": "therefore"
+  },
+  {
+    "initial": "T",
+    "mean": "n.温度计，寒暑表",
+    "phonetic_symbol": "/θə’mɔmitə/",
+    "word": "thermometer"
+  },
+  {
+    "initial": "T",
+    "mean": "n.厚(度);密(度)",
+    "phonetic_symbol": "/‘θiknis/",
+    "word": "thickness"
+  },
+  {
+    "initial": "T",
+    "mean": "a.彻底的;详尽的",
+    "phonetic_symbol": "/‘θΛrə/",
+    "word": "thorough"
+  },
+  {
+    "initial": "T",
+    "mean": "a.沉思的;体贴的",
+    "phonetic_symbol": "/‘θɔ:tful/",
+    "word": "thoughtful"
+  },
+  {
+    "initial": "T",
+    "mean": "n.线;丝;螺纹;头绪",
+    "phonetic_symbol": "/θred/",
+    "word": "thread"
+  },
+  {
+    "initial": "T",
+    "mean": "n.威胁，恐吓，凶兆",
+    "phonetic_symbol": "/θret/",
+    "word": "threat"
+  },
+  {
+    "initial": "T",
+    "mean": "vt.&vi.威胁，恐吓",
+    "phonetic_symbol": "/‘θretn/",
+    "word": "threaten"
+  },
+  {
+    "initial": "T",
+    "mean": "vi.兴旺，繁荣，旺盛",
+    "phonetic_symbol": "/θraiv/",
+    "word": "thrive"
+  },
+  {
+    "initial": "T",
+    "mean": "n.咽喉，喉咙;嗓音",
+    "phonetic_symbol": "/θrəut/",
+    "word": "throat"
+  },
+  {
+    "initial": "T",
+    "mean": "prep.遍及ad.到处",
+    "phonetic_symbol": "/θru:’aut/",
+    "word": "throughout"
+  },
+  {
+    "initial": "T",
+    "mean": "vt.插，刺n.插;讽刺",
+    "phonetic_symbol": "/θrΛst/",
+    "word": "thrust"
+  },
+  {
+    "initial": "T",
+    "mean": "n.雷vi.打雷vt.吼出",
+    "phonetic_symbol": "/‘θΛndə/",
+    "word": "thunder"
+  },
+  {
+    "initial": "T",
+    "mean": "ad.如此，这样;因而",
+    "phonetic_symbol": "/ðΛs/",
+    "word": "thus"
+  },
+  {
+    "initial": "T",
+    "mean": "n.潮，潮汐;潮流",
+    "phonetic_symbol": "/taid/",
+    "word": "tide"
+  },
+  {
+    "initial": "T",
+    "mean": "a.整洁的;整齐的",
+    "phonetic_symbol": "/‘taidi/",
+    "word": "tidy"
+  },
+  {
+    "initial": "T",
+    "mean": "n.锡;罐头",
+    "phonetic_symbol": "/tin/",
+    "word": "tin"
+  },
+  {
+    "initial": "T",
+    "mean": "vt.轻击vi.给小费",
+    "phonetic_symbol": "/tip/",
+    "word": "tip"
+  },
+  {
+    "initial": "T",
+    "mean": "vi.疲劳，累;厌倦",
+    "phonetic_symbol": "/‘taiə/",
+    "word": "tire"
+  },
+  {
+    "initial": "T",
+    "mean": "n.薄绢;薄纸;组织",
+    "phonetic_symbol": "/‘tisju:/",
+    "word": "tissue"
+  },
+  {
+    "initial": "T",
+    "mean": "n.烤面包vt.烘，烤",
+    "phonetic_symbol": "/təust/",
+    "word": "toast"
+  },
+  {
+    "initial": "T",
+    "mean": "n.祝酒;祝酒词",
+    "phonetic_symbol": "/təust/",
+    "word": "toast"
+  },
+  {
+    "initial": "T",
+    "mean": "n.脚趾，足尖",
+    "phonetic_symbol": "/təu/",
+    "word": "toe"
+  },
+  {
+    "initial": "T",
+    "mean": "n.厕所，盥洗室，浴室",
+    "phonetic_symbol": "/‘tɔilit/",
+    "word": "tɔilet"
+  },
+  {
+    "initial": "T",
+    "mean": "n.忍受，容忍;公差",
+    "phonetic_symbol": "/‘tɔlərəns/",
+    "word": "tolerance"
+  },
+  {
+    "initial": "T",
+    "mean": "vt.忍受，容忍，宽恕",
+    "phonetic_symbol": "/‘tɔləreit/",
+    "word": "tolerate"
+  },
+  {
+    "initial": "T",
+    "mean": "n.音;腔调;声调",
+    "phonetic_symbol": "/təun/",
+    "word": "tone"
+  },
+  {
+    "initial": "T",
+    "mean": "n.火炬，火把;手电筒",
+    "phonetic_symbol": "/tɔ:tʃ/",
+    "word": "torch"
+  },
+  {
+    "initial": "T",
+    "mean": "n.拷问;折磨vt.拷打",
+    "phonetic_symbol": "/‘tɔ:tʃə/",
+    "word": "torture"
+  },
+  {
+    "initial": "T",
+    "mean": "a.总的vi.合计，总共",
+    "phonetic_symbol": "/‘təutl/",
+    "word": "total"
+  },
+  {
+    "initial": "T",
+    "mean": "vt.触摸;触动;感动n.触",
+    "phonetic_symbol": "/tΛtʃ/",
+    "word": "touch"
+  },
+  {
+    "initial": "T",
+    "mean": "a.坚韧的;健壮的",
+    "phonetic_symbol": "/tΛf/",
+    "word": "tough"
+  },
+  {
+    "initial": "T",
+    "mean": "n.&vi.旅行，游历",
+    "phonetic_symbol": "/tuə/",
+    "word": "tour"
+  },
+  {
+    "initial": "T",
+    "mean": "n.旅游者，观光者",
+    "phonetic_symbol": "/‘tuərist/",
+    "word": "tourist"
+  },
+  {
+    "initial": "T",
+    "mean": "n.毛巾，手巾",
+    "phonetic_symbol": "/‘tauəl/",
+    "word": "towel"
+  },
+  {
+    "initial": "T",
+    "mean": "n.塔vi.屹立，高耸",
+    "phonetic_symbol": "/‘tauə/",
+    "word": "tower"
+  },
+  {
+    "initial": "T",
+    "mean": "n.痕迹;丝毫vt.跟踪",
+    "phonetic_symbol": "/treis/",
+    "word": "trace"
+  },
+  {
+    "initial": "T",
+    "mean": "n.行踪;路径;轨道",
+    "phonetic_symbol": "/træk/",
+    "word": "track"
+  },
+  {
+    "initial": "T",
+    "mean": "n.拖拉机;牵引车",
+    "phonetic_symbol": "/‘træktə/",
+    "word": "tractor"
+  },
+  {
+    "initial": "T",
+    "mean": "n.贸易;职业vi.交易",
+    "phonetic_symbol": "/treid/",
+    "word": "trade"
+  },
+  {
+    "initial": "T",
+    "mean": "n.交通，通行;交通量",
+    "phonetic_symbol": "/‘træfik/",
+    "word": "traffic"
+  },
+  {
+    "initial": "T",
+    "mean": "n.悲剧;惨事，惨案",
+    "phonetic_symbol": "/‘trædʒidi/",
+    "word": "tragedy"
+  },
+  {
+    "initial": "T",
+    "mean": "n.痕迹;小径vt.跟踪",
+    "phonetic_symbol": "/treil/",
+    "word": "trail"
+  },
+  {
+    "initial": "T",
+    "mean": "vt.转移;调动vi.转移",
+    "phonetic_symbol": "/træns’fə:/",
+    "word": "transfer"
+  },
+  {
+    "initial": "T",
+    "mean": "vt.改变;改造;变换",
+    "phonetic_symbol": "/træns’fɔ:m/",
+    "word": "transform"
+  },
+  {
+    "initial": "T",
+    "mean": "n.变压器，转换器",
+    "phonetic_symbol": "/trænsfə’meiʃən/n.变化;改造;转变transformer/træns’fɔ:mə/",
+    "word": "transformation"
+  },
+  {
+    "initial": "T",
+    "mean": "n.晶体管",
+    "phonetic_symbol": "/træn’sistə/",
+    "word": "transistor"
+  },
+  {
+    "initial": "T",
+    "mean": "n.传送;传动;发射",
+    "phonetic_symbol": "/trænz’miʃən/",
+    "word": "transmission"
+  },
+  {
+    "initial": "T",
+    "mean": "vt.传送，传达;发射",
+    "phonetic_symbol": "/trænz’mit/",
+    "word": "transmit"
+  },
+  {
+    "initial": "T",
+    "mean": "a.透明的;易识破的",
+    "phonetic_symbol": "/træns’peərənt/",
+    "word": "transparent"
+  },
+  {
+    "initial": "T",
+    "mean": "vt.运输n.运输",
+    "phonetic_symbol": "/træns’pɔ:t/",
+    "word": "transport"
+  },
+  {
+    "initial": "T",
+    "mean": "n.运输，运送，客运",
+    "phonetic_symbol": "/trænspɔ:’teiʃən/",
+    "word": "transportation"
+  },
+  {
+    "initial": "T",
+    "mean": "n.陷阱;诡计vt.诱骗",
+    "phonetic_symbol": "/træp/",
+    "word": "trap"
+  },
+  {
+    "initial": "T",
+    "mean": "n.(浅)盘，托盘，碟",
+    "phonetic_symbol": "/trei/",
+    "word": "tray"
+  },
+  {
+    "initial": "T",
+    "mean": "n.财富;珍宝vt.珍视",
+    "phonetic_symbol": "/‘treʒə/",
+    "word": "treasure"
+  },
+  {
+    "initial": "T",
+    "mean": "vt.对待;处理n.款待",
+    "phonetic_symbol": "/tri:t/",
+    "word": "treat"
+  },
+  {
+    "initial": "T",
+    "mean": "n.待遇;治疗，疗法",
+    "phonetic_symbol": "/‘tri:tmənt/",
+    "word": "treatment"
+  },
+  {
+    "initial": "T",
+    "mean": "n.条约;协议，协定",
+    "phonetic_symbol": "/‘tri:ti/",
+    "word": "treaty"
+  },
+  {
+    "initial": "T",
+    "mean": "vi.发抖，哆嗦;摇动",
+    "phonetic_symbol": "/‘trembl/",
+    "word": "tremble"
+  },
+  {
+    "initial": "T",
+    "mean": "a.极大的，非常的",
+    "phonetic_symbol": "/tri’mendəs/",
+    "word": "tremendous"
+  },
+  {
+    "initial": "T",
+    "mean": "vi.伸向;倾向n.倾向",
+    "phonetic_symbol": "/trend/",
+    "word": "trend"
+  },
+  {
+    "initial": "T",
+    "mean": "n.试，试验;审判",
+    "phonetic_symbol": "/‘traiəl/",
+    "word": "trial"
+  },
+  {
+    "initial": "T",
+    "mean": "n.三角(形)",
+    "phonetic_symbol": "/‘traiængl/",
+    "word": "triangle"
+  },
+  {
+    "initial": "T",
+    "mean": "n.诡计;窍门vt.哄骗",
+    "phonetic_symbol": "/trik/",
+    "word": "trick"
+  },
+  {
+    "initial": "T",
+    "mean": "a.整齐的vt.使整齐",
+    "phonetic_symbol": "/trim/",
+    "word": "trim"
+  },
+  {
+    "initial": "T",
+    "mean": "n.凯旋;胜利vi.成功",
+    "phonetic_symbol": "/‘traiəmf/",
+    "word": "triumph"
+  },
+  {
+    "initial": "T",
+    "mean": "n.军队;一群，大量",
+    "phonetic_symbol": "/tru:p/",
+    "word": "troop"
+  },
+  {
+    "initial": "T",
+    "mean": "a.热带的",
+    "phonetic_symbol": "/‘trɔpikəl/",
+    "word": "tropical"
+  },
+  {
+    "initial": "T",
+    "mean": "a.令人烦恼的;麻烦的",
+    "phonetic_symbol": "/‘trΛblsəm/",
+    "word": "troublesome"
+  },
+  {
+    "initial": "T",
+    "mean": "n.喇叭，小号",
+    "phonetic_symbol": "/‘trΛmpit/",
+    "word": "trumpet"
+  },
+  {
+    "initial": "T",
+    "mean": "n.树干;大衣箱，皮箱",
+    "phonetic_symbol": "/trΛŋk/",
+    "word": "trunk"
+  },
+  {
+    "initial": "T",
+    "mean": "n.信任vt.相信;委托",
+    "phonetic_symbol": "/trΛst/",
+    "word": "trust"
+  },
+  {
+    "initial": "T",
+    "mean": "n.真理;真实;真实性",
+    "phonetic_symbol": "/tru:θ/",
+    "word": "truth"
+  },
+  {
+    "initial": "T",
+    "mean": "n.管;电子管，显像管",
+    "phonetic_symbol": "/tju:b/",
+    "word": "tube"
+  },
+  {
+    "initial": "T",
+    "mean": "n.调子;和谐vt.调谐",
+    "phonetic_symbol": "/tju:n/",
+    "word": "tune"
+  },
+  {
+    "initial": "T",
+    "mean": "n.隧道，坑道，地道",
+    "phonetic_symbol": "/‘tΛnl/",
+    "word": "tunnel"
+  },
+  {
+    "initial": "T",
+    "mean": "n.叶轮机，汽轮机",
+    "phonetic_symbol": "/‘tə:bin/",
+    "word": "turbine"
+  },
+  {
+    "initial": "T",
+    "mean": "a.孪生的n.孪生儿",
+    "phonetic_symbol": "/twin/",
+    "word": "twin"
+  },
+  {
+    "initial": "T",
+    "mean": "vt.捻;拧vi.&n.扭弯",
+    "phonetic_symbol": "/twist/",
+    "word": "twist"
+  },
+  {
+    "initial": "T",
+    "mean": "n.型，类型vi.打字",
+    "phonetic_symbol": "/taip/",
+    "word": "type"
+  },
+  {
+    "initial": "T",
+    "mean": "n.打字机",
+    "phonetic_symbol": "/‘taipraitə/",
+    "word": "typewriter"
+  },
+  {
+    "initial": "T",
+    "mean": "a.典型的，代表性的",
+    "phonetic_symbol": "/‘tipikəl/",
+    "word": "typical"
+  },
+  {
+    "initial": "T",
+    "mean": "n.打字员",
+    "phonetic_symbol": "/‘taipist/",
+    "word": "typist"
+  },
+  {
+    "initial": "T",
+    "mean": "n.轮胎，车胎",
+    "phonetic_symbol": "/‘taiə/",
+    "word": "tyre"
+  }
+]

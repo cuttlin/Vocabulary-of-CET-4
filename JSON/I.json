@@ -1,0 +1,908 @@
+[
+  {
+    "initial": "I",
+    "mean": "pron.(主格)我",
+    "phonetic_symbol": "/ai/",
+    "word": "﻿I"
+  },
+  {
+    "initial": "I",
+    "mean": "n.冰，冰块vt.冰镇",
+    "phonetic_symbol": "/ais/",
+    "word": "ice"
+  },
+  {
+    "initial": "I",
+    "mean": "n.冰淇淋",
+    "phonetic_symbol": "/‘ais’kri:m/",
+    "word": "ice-cream"
+  },
+  {
+    "initial": "I",
+    "mean": "n.想法;思想;意见",
+    "phonetic_symbol": "/ai’diə/",
+    "word": "idea"
+  },
+  {
+    "initial": "I",
+    "mean": "a.理想的;观念的",
+    "phonetic_symbol": "/ai’diəl/",
+    "word": "ideal"
+  },
+  {
+    "initial": "I",
+    "mean": "a.完全相同的;同一的",
+    "phonetic_symbol": "/ai’dentikəl/",
+    "word": "identical"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.认出，识别，鉴定",
+    "phonetic_symbol": "/ai’dentifai/",
+    "word": "identify"
+  },
+  {
+    "initial": "I",
+    "mean": "a.空闲的;懒散的",
+    "phonetic_symbol": "/‘aidl/",
+    "word": "idle"
+  },
+  {
+    "initial": "I",
+    "mean": "conj.假如，如果",
+    "phonetic_symbol": "/if/",
+    "word": "if"
+  },
+  {
+    "initial": "I",
+    "mean": "a.不知道的;无知的",
+    "phonetic_symbol": "/‘ignərənt/",
+    "word": "ignorant"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.不顾，不理，忽视",
+    "phonetic_symbol": "/ig’nɔ:/",
+    "word": "ignore"
+  },
+  {
+    "initial": "I",
+    "mean": "a.有病的;坏的ad.坏",
+    "phonetic_symbol": "/il/",
+    "word": "ill"
+  },
+  {
+    "initial": "I",
+    "mean": "a.不合法的，非法的",
+    "phonetic_symbol": "/i’li:gəl/",
+    "word": "illegal"
+  },
+  {
+    "initial": "I",
+    "mean": "n.病，疾病",
+    "phonetic_symbol": "/‘ilnis/",
+    "word": "illness"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.(用图等)说明",
+    "phonetic_symbol": "/‘iləstreit/",
+    "word": "illustrate"
+  },
+  {
+    "initial": "I",
+    "mean": "n.说明，图解;例证",
+    "phonetic_symbol": "/iləs’treiʃən/",
+    "word": "illustration"
+  },
+  {
+    "initial": "I",
+    "mean": "n.像;形象;映象",
+    "phonetic_symbol": "/‘imidʒ/",
+    "word": "image"
+  },
+  {
+    "initial": "I",
+    "mean": "a.想象中的，假想的",
+    "phonetic_symbol": "/i’mædʒinəri/",
+    "word": "imaginary"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.想象，设想;料想",
+    "phonetic_symbol": "/imædʒi’neiʃən/n.想象;想象力;空想imagine/i’mædʒin/",
+    "word": "imagination"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.模仿，仿效;仿制",
+    "phonetic_symbol": "/‘imiteit/",
+    "word": "imitate"
+  },
+  {
+    "initial": "I",
+    "mean": "a.立即的;直接的",
+    "phonetic_symbol": "/i’mi:djət/",
+    "word": "immediate"
+  },
+  {
+    "initial": "I",
+    "mean": "a.巨大的;极好的",
+    "phonetic_symbol": "/i’mens/",
+    "word": "immense"
+  },
+  {
+    "initial": "I",
+    "mean": "n.移民a.移民的",
+    "phonetic_symbol": "/‘imigrənt/",
+    "word": "immigrant"
+  },
+  {
+    "initial": "I",
+    "mean": "n.影响，作用;冲击",
+    "phonetic_symbol": "/‘impækt/",
+    "word": "impact"
+  },
+  {
+    "initial": "I",
+    "mean": "a.不耐烦的，急躁的",
+    "phonetic_symbol": "/im’peiʃənt/",
+    "word": "impatient"
+  },
+  {
+    "initial": "I",
+    "mean": "n.含义，暗示，暗指",
+    "phonetic_symbol": "/impli’keiʃən/",
+    "word": "implication"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.暗示，意指",
+    "phonetic_symbol": "/im’plai/",
+    "word": "imply"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.&n.输入，进口",
+    "phonetic_symbol": "/im’pɔ:t‘impɔ:t/",
+    "word": "import"
+  },
+  {
+    "initial": "I",
+    "mean": "n.重要;重要性",
+    "phonetic_symbol": "/im’pɔ:təns/",
+    "word": "importance"
+  },
+  {
+    "initial": "I",
+    "mean": "a.重要的;有势力的",
+    "phonetic_symbol": "/im’pɔ:tənt/",
+    "word": "important"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.把…强加;征(税)",
+    "phonetic_symbol": "/im’pəuz/",
+    "word": "impose"
+  },
+  {
+    "initial": "I",
+    "mean": "a.不可能的，办不到的",
+    "phonetic_symbol": "/im’pɔsəbl/",
+    "word": "impossible"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.给…深刻印象",
+    "phonetic_symbol": "/im’pres,‘impres/",
+    "word": "impress"
+  },
+  {
+    "initial": "I",
+    "mean": "n.印;印象;印记",
+    "phonetic_symbol": "/im’preʃən/",
+    "word": "impression"
+  },
+  {
+    "initial": "I",
+    "mean": "a.给人印象深刻的",
+    "phonetic_symbol": "/im’presiv/",
+    "word": "impressive"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.使更好vi.改善",
+    "phonetic_symbol": "/im’pru:v/",
+    "word": "improve"
+  },
+  {
+    "initial": "I",
+    "mean": "n.改进，改善;改进处",
+    "phonetic_symbol": "/im’pru:vmənt/",
+    "word": "improvement"
+  },
+  {
+    "initial": "I",
+    "mean": "prep.在…里ad.进，入",
+    "phonetic_symbol": "/in/",
+    "word": "in"
+  },
+  {
+    "initial": "I",
+    "mean": "n.英寸",
+    "phonetic_symbol": "/intʃ/",
+    "word": "inch"
+  },
+  {
+    "initial": "I",
+    "mean": "n.发生的事;事件",
+    "phonetic_symbol": "/‘insidənt/",
+    "word": "incident"
+  },
+  {
+    "initial": "I",
+    "mean": "n.斜坡vt.使倾斜",
+    "phonetic_symbol": "/in’klain/",
+    "word": "incline"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.包括，包含",
+    "phonetic_symbol": "/in’klu:d/",
+    "word": "include"
+  },
+  {
+    "initial": "I",
+    "mean": "n.收入;收益;进款",
+    "phonetic_symbol": "/‘inkΛm/",
+    "word": "income"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.&vi.&n.增加",
+    "phonetic_symbol": "/in’kri:s,‘inkri:s/",
+    "word": "increase"
+  },
+  {
+    "initial": "I",
+    "mean": "ad.日益，越来越多地",
+    "phonetic_symbol": "/in’kri:siŋli/",
+    "word": "increasingly"
+  },
+  {
+    "initial": "I",
+    "mean": "ad.真正地;确实",
+    "phonetic_symbol": "/in’di:d/",
+    "word": "indeed"
+  },
+  {
+    "initial": "I",
+    "mean": "n.独立，自主，自立",
+    "phonetic_symbol": "/indi’pendəns/",
+    "word": "independence"
+  },
+  {
+    "initial": "I",
+    "mean": "a.独立的;自主的",
+    "phonetic_symbol": "/indi’pendənt/",
+    "word": "independent"
+  },
+  {
+    "initial": "I",
+    "mean": "n.索引;指数;指标",
+    "phonetic_symbol": "/‘indeks/",
+    "word": "index"
+  },
+  {
+    "initial": "I",
+    "mean": "a.印度的n.印度人",
+    "phonetic_symbol": "/‘indiən/",
+    "word": "Indian"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.标示，表示;表明",
+    "phonetic_symbol": "/‘indikeit/",
+    "word": "indicate"
+  },
+  {
+    "initial": "I",
+    "mean": "n.指示;表示;表明",
+    "phonetic_symbol": "/indi’keiʃən/",
+    "word": "indication"
+  },
+  {
+    "initial": "I",
+    "mean": "a.冷漠的;不积极的",
+    "phonetic_symbol": "/in’difrənt/",
+    "word": "indifferent"
+  },
+  {
+    "initial": "I",
+    "mean": "a.间接的;不坦率的",
+    "phonetic_symbol": "/indi’rekt/",
+    "word": "indirect"
+  },
+  {
+    "initial": "I",
+    "mean": "a.必不可少的，必需的",
+    "phonetic_symbol": "/indis’pensəbl/",
+    "word": "indispensable"
+  },
+  {
+    "initial": "I",
+    "mean": "a.个别的;独特的",
+    "phonetic_symbol": "/indi’vidjuəl/",
+    "word": "individual"
+  },
+  {
+    "initial": "I",
+    "mean": "ad.在室内，在屋里",
+    "phonetic_symbol": "/in’dɔ:z/",
+    "word": "indoors"
+  },
+  {
+    "initial": "I",
+    "mean": "a.工业的;产业的",
+    "phonetic_symbol": "/in’dΛstriəl/",
+    "word": "industrial"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.使工业化",
+    "phonetic_symbol": "/in’dΛstriəlaiz/",
+    "word": "industrialize"
+  },
+  {
+    "initial": "I",
+    "mean": "n.工业，产业;勤劳",
+    "phonetic_symbol": "/‘indəstri/",
+    "word": "industry"
+  },
+  {
+    "initial": "I",
+    "mean": "a.不可避免的，必然的",
+    "phonetic_symbol": "/in’evitəbl/",
+    "word": "inevitable"
+  },
+  {
+    "initial": "I",
+    "mean": "n.婴儿a.婴儿的",
+    "phonetic_symbol": "/‘infənt/",
+    "word": "infant"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.传染;感染",
+    "phonetic_symbol": "/in’fekt/",
+    "word": "infect"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.推论，推断;猜想",
+    "phonetic_symbol": "/in’fə:/",
+    "word": "infer"
+  },
+  {
+    "initial": "I",
+    "mean": "a.下等的;劣等的",
+    "phonetic_symbol": "/in’fiəriə/",
+    "word": "inferior"
+  },
+  {
+    "initial": "I",
+    "mean": "a.无限的;无数的",
+    "phonetic_symbol": "/‘infinit/",
+    "word": "infinite"
+  },
+  {
+    "initial": "I",
+    "mean": "n.影响;势力vt.影响",
+    "phonetic_symbol": "/‘influəns/",
+    "word": "influence"
+  },
+  {
+    "initial": "I",
+    "mean": "a.有影响的;有权势的",
+    "phonetic_symbol": "/influ’enʃəl/",
+    "word": "influential"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.通知，向…报告",
+    "phonetic_symbol": "/in’fɔ:m/",
+    "word": "inform"
+  },
+  {
+    "initial": "I",
+    "mean": "n.消息，信息;通知",
+    "phonetic_symbol": "/infə’meiʃən/",
+    "word": "information"
+  },
+  {
+    "initial": "I",
+    "mean": "n.居民，住户",
+    "phonetic_symbol": "/in’hæbitənt/",
+    "word": "inhabitant"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.继承(传统等)",
+    "phonetic_symbol": "/in’herit/",
+    "word": "inherit"
+  },
+  {
+    "initial": "I",
+    "mean": "a.最初的;词首的",
+    "phonetic_symbol": "/i’niʃəl/",
+    "word": "initial"
+  },
+  {
+    "initial": "I",
+    "mean": "n.注射，注入;充满",
+    "phonetic_symbol": "/in’dʒekʃən/",
+    "word": "injection"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.伤害，损害，损伤",
+    "phonetic_symbol": "/‘indʒə/",
+    "word": "injure"
+  },
+  {
+    "initial": "I",
+    "mean": "n.损害，伤害;受伤处",
+    "phonetic_symbol": "/‘indʒəri/",
+    "word": "injury"
+  },
+  {
+    "initial": "I",
+    "mean": "n.墨水，油墨",
+    "phonetic_symbol": "/iŋk/",
+    "word": "ink"
+  },
+  {
+    "initial": "I",
+    "mean": "n.小旅店;小酒店",
+    "phonetic_symbol": "/in/",
+    "word": "inn"
+  },
+  {
+    "initial": "I",
+    "mean": "a.内部的;内心的",
+    "phonetic_symbol": "/‘inə/",
+    "word": "inner"
+  },
+  {
+    "initial": "I",
+    "mean": "a.清白的，幼稚的",
+    "phonetic_symbol": "/‘inəsnt/",
+    "word": "innocent"
+  },
+  {
+    "initial": "I",
+    "mean": "n.输入;投入的资金",
+    "phonetic_symbol": "/‘input/",
+    "word": "input"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.打听，询问;调查",
+    "phonetic_symbol": "/in’kwaiə/",
+    "word": "inquire"
+  },
+  {
+    "initial": "I",
+    "mean": "n.询问，打听;调查",
+    "phonetic_symbol": "/in’kwaiəri/",
+    "word": "inquiry"
+  },
+  {
+    "initial": "I",
+    "mean": "n.昆虫，虫",
+    "phonetic_symbol": "/‘insekt/",
+    "word": "insect"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.插入;嵌入;登载",
+    "phonetic_symbol": "/in’sə:t,‘insə:t/",
+    "word": "insert"
+  },
+  {
+    "initial": "I",
+    "mean": "prep.在…里面n.内部",
+    "phonetic_symbol": "/in’said/",
+    "word": "inside"
+  },
+  {
+    "initial": "I",
+    "mean": "vi.坚持;坚持要求",
+    "phonetic_symbol": "/in’sist/",
+    "word": "insist"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.检查，审查;检阅",
+    "phonetic_symbol": "/in’spekt/",
+    "word": "inspect"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.鼓舞;给…以灵感",
+    "phonetic_symbol": "/in’spaiə/",
+    "word": "inspire"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.安装，设置",
+    "phonetic_symbol": "/in’stɔ:l/",
+    "word": "install"
+  },
+  {
+    "initial": "I",
+    "mean": "n.安装;装置;设施",
+    "phonetic_symbol": "/instə’leiʃən/",
+    "word": "installation"
+  },
+  {
+    "initial": "I",
+    "mean": "n.例子，实例，事例",
+    "phonetic_symbol": "/‘instəns/",
+    "word": "instance"
+  },
+  {
+    "initial": "I",
+    "mean": "n.瞬间a.立即的",
+    "phonetic_symbol": "/‘instənt/",
+    "word": "instant"
+  },
+  {
+    "initial": "I",
+    "mean": "ad.代替，顶替;反而",
+    "phonetic_symbol": "/in’sted/",
+    "word": "instead"
+  },
+  {
+    "initial": "I",
+    "mean": "n.本能;直觉;生性",
+    "phonetic_symbol": "/‘instiŋkt/",
+    "word": "instinct"
+  },
+  {
+    "initial": "I",
+    "mean": "n.研究所;学院",
+    "phonetic_symbol": "/‘institju:t/",
+    "word": "institute"
+  },
+  {
+    "initial": "I",
+    "mean": "n.协会;制度，习俗",
+    "phonetic_symbol": "/insti’tju:ʃən/",
+    "word": "institution"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.教;指示;通知",
+    "phonetic_symbol": "/in’strΛkt/",
+    "word": "instruct"
+  },
+  {
+    "initial": "I",
+    "mean": "n.命令;教学;教训",
+    "phonetic_symbol": "/in’strΛkʃən/",
+    "word": "instruction"
+  },
+  {
+    "initial": "I",
+    "mean": "n.仪器;工具;乐器",
+    "phonetic_symbol": "/‘instrumənt/",
+    "word": "instrument"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.&n.侮辱，凌辱",
+    "phonetic_symbol": "/‘insΛlt,in’sΛlt/",
+    "word": "insult"
+  },
+  {
+    "initial": "I",
+    "mean": "n.保险;保险费",
+    "phonetic_symbol": "/in’ʃuərəns/",
+    "word": "insurance"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.给…保险;确保",
+    "phonetic_symbol": "/in’ʃuə/",
+    "word": "insure"
+  },
+  {
+    "initial": "I",
+    "mean": "n.知识分子a.智力的",
+    "phonetic_symbol": "/inti’lektjuəl/",
+    "word": "intellectual"
+  },
+  {
+    "initial": "I",
+    "mean": "n.智力;理解力;情报",
+    "phonetic_symbol": "/in’telidʒəns/",
+    "word": "intelligence"
+  },
+  {
+    "initial": "I",
+    "mean": "a.聪明的;理智的",
+    "phonetic_symbol": "/in’telidʒənt/",
+    "word": "intelligent"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.想要，打算;意指",
+    "phonetic_symbol": "/in’tend/",
+    "word": "intend"
+  },
+  {
+    "initial": "I",
+    "mean": "a.强烈的;紧张的",
+    "phonetic_symbol": "/in’tens/",
+    "word": "intense"
+  },
+  {
+    "initial": "I",
+    "mean": "n.强烈，剧烈;强度",
+    "phonetic_symbol": "/in’tensiti/",
+    "word": "intensity"
+  },
+  {
+    "initial": "I",
+    "mean": "a.加强的;精耕细作的",
+    "phonetic_symbol": "/in’tensiv/",
+    "word": "intensive"
+  },
+  {
+    "initial": "I",
+    "mean": "n.意图，意向，目的",
+    "phonetic_symbol": "/in’tenʃən/",
+    "word": "intention"
+  },
+  {
+    "initial": "I",
+    "mean": "n.相互作用;干扰",
+    "phonetic_symbol": "/intə’rækʃən/",
+    "word": "interaction"
+  },
+  {
+    "initial": "I",
+    "mean": "n.兴趣;利益;利息",
+    "phonetic_symbol": "/‘intrist/",
+    "word": "interest"
+  },
+  {
+    "initial": "I",
+    "mean": "a.有趣的，引人入胜的",
+    "phonetic_symbol": "/‘intristiŋ/",
+    "word": "interesting"
+  },
+  {
+    "initial": "I",
+    "mean": "vi.干涉，干预;妨碍",
+    "phonetic_symbol": "/intə’fiə/",
+    "word": "interfere"
+  },
+  {
+    "initial": "I",
+    "mean": "n.干涉，干预;阻碍",
+    "phonetic_symbol": "/intə’fiərəns/",
+    "word": "interference"
+  },
+  {
+    "initial": "I",
+    "mean": "a.内的;内地的n.内部",
+    "phonetic_symbol": "/in’tiəriə/",
+    "word": "interior"
+  },
+  {
+    "initial": "I",
+    "mean": "a.中间的;中级的",
+    "phonetic_symbol": "/intə’mi:djət/",
+    "word": "intermediate"
+  },
+  {
+    "initial": "I",
+    "mean": "a.内的;国内的",
+    "phonetic_symbol": "/in’tə:nl/",
+    "word": "internal"
+  },
+  {
+    "initial": "I",
+    "mean": "a.国际的",
+    "phonetic_symbol": "/intə(:)’næʃənl/",
+    "word": "international"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.解释，说明;口译",
+    "phonetic_symbol": "/in’tə:prit/",
+    "word": "interpret"
+  },
+  {
+    "initial": "I",
+    "mean": "n.解释;口译",
+    "phonetic_symbol": "/intə:pri’teiʃən/",
+    "word": "interpretation"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.打断，打扰;中止",
+    "phonetic_symbol": "/intə’rΛpt/",
+    "word": "interrupt"
+  },
+  {
+    "initial": "I",
+    "mean": "n.间隔;休息;间距",
+    "phonetic_symbol": "/‘intəvəl/",
+    "word": "interval"
+  },
+  {
+    "initial": "I",
+    "mean": "n.接见;会见;面谈",
+    "phonetic_symbol": "/‘intəvju:/",
+    "word": "interview"
+  },
+  {
+    "initial": "I",
+    "mean": "a.亲密的;个人的",
+    "phonetic_symbol": "/‘intimit/",
+    "word": "intimate"
+  },
+  {
+    "initial": "I",
+    "mean": "prep.进，入;进入到",
+    "phonetic_symbol": "/‘intu,‘intə/",
+    "word": "into"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.介绍;引进，传入",
+    "phonetic_symbol": "/‘intrə’dju:s/",
+    "word": "introduce"
+  },
+  {
+    "initial": "I",
+    "mean": "n.介绍;引进;引言",
+    "phonetic_symbol": "/intrə’dΛkʃən/",
+    "word": "introduction"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.入侵，侵略;侵袭",
+    "phonetic_symbol": "/in’veid/",
+    "word": "invade"
+  },
+  {
+    "initial": "I",
+    "mean": "n.入侵，侵略;侵犯",
+    "phonetic_symbol": "/in’veiʒən/",
+    "word": "invasion"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.发明，创造;捏造",
+    "phonetic_symbol": "/in’vent/",
+    "word": "invent"
+  },
+  {
+    "initial": "I",
+    "mean": "n.发明，创造;捏造",
+    "phonetic_symbol": "/in’venʃən/",
+    "word": "invention"
+  },
+  {
+    "initial": "I",
+    "mean": "n.发明者;发明家",
+    "phonetic_symbol": "/in’ventə/",
+    "word": "inventor"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.投资;投入",
+    "phonetic_symbol": "/in’vest/",
+    "word": "invest"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.&vi.调查",
+    "phonetic_symbol": "/in’vestigeit/",
+    "word": "investigate"
+  },
+  {
+    "initial": "I",
+    "mean": "n.投资，投资额，投入",
+    "phonetic_symbol": "/in’vestmənt/",
+    "word": "investment"
+  },
+  {
+    "initial": "I",
+    "mean": "a.看不见的，无形的",
+    "phonetic_symbol": "/in’vizəbl/",
+    "word": "invisible"
+  },
+  {
+    "initial": "I",
+    "mean": "n.邀请，招待;请柬",
+    "phonetic_symbol": "/invi’teiʃən/",
+    "word": "invitation"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.邀请，聘请;招待",
+    "phonetic_symbol": "/in’vait/",
+    "word": "invite"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.使卷入;牵涉",
+    "phonetic_symbol": "/in’vɔlv/",
+    "word": "involve"
+  },
+  {
+    "initial": "I",
+    "mean": "a.里面的ad.向内",
+    "phonetic_symbol": "/‘inwəd/",
+    "word": "inward"
+  },
+  {
+    "initial": "I",
+    "mean": "n.铁;烙铁vt.烫(衣)",
+    "phonetic_symbol": "/‘aiən/",
+    "word": "iron"
+  },
+  {
+    "initial": "I",
+    "mean": "n.岛，岛屿",
+    "phonetic_symbol": "/‘ailənd/",
+    "word": "island"
+  },
+  {
+    "initial": "I",
+    "mean": "vt.使隔离，使孤立",
+    "phonetic_symbol": "/‘aisəleit/",
+    "word": "isolate"
+  },
+  {
+    "initial": "I",
+    "mean": "n.问题;发行vt.发行",
+    "phonetic_symbol": "/‘iʃu:/",
+    "word": "issue"
+  },
+  {
+    "initial": "I",
+    "mean": "pron.这，那，它",
+    "phonetic_symbol": "/it/",
+    "word": "it"
+  },
+  {
+    "initial": "I",
+    "mean": "a.意大利的n.意大利人",
+    "phonetic_symbol": "/i’tæljən/",
+    "word": "Italian"
+  },
+  {
+    "initial": "I",
+    "mean": "n.条，条款;一条",
+    "phonetic_symbol": "/‘aitəm/",
+    "word": "item"
+  },
+  {
+    "initial": "I",
+    "mean": "pron.它的",
+    "phonetic_symbol": "/its/",
+    "word": "its"
+  },
+  {
+    "initial": "I",
+    "mean": "pron.它自己;自身",
+    "phonetic_symbol": "/it’self/",
+    "word": "itself"
+  }
+]

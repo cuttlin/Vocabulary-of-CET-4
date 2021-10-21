@@ -1,0 +1,656 @@
+[
+  {
+    "initial": "O",
+    "mean": "vt.顺从vi.服从",
+    "phonetic_symbol": "/ə’bei/",
+    "word": "﻿obey"
+  },
+  {
+    "initial": "O",
+    "mean": "n.物，物体;目的",
+    "phonetic_symbol": "/‘obdʒiktəb’dʒekt/",
+    "word": "object"
+  },
+  {
+    "initial": "O",
+    "mean": "vi.反对;抱反感",
+    "phonetic_symbol": "/‘obdʒiktəb’dʒekt/",
+    "word": "object"
+  },
+  {
+    "initial": "O",
+    "mean": "n.反对，异议;不喜欢",
+    "phonetic_symbol": "/əb’dʒekʃən/",
+    "word": "objection"
+  },
+  {
+    "initial": "O",
+    "mean": "a.客观的;无偏见的",
+    "phonetic_symbol": "/ob’dʒektiv/",
+    "word": "objective"
+  },
+  {
+    "initial": "O",
+    "mean": "vt.迫使;施恩惠于",
+    "phonetic_symbol": "/ə’blaidʒ/",
+    "word": "oblige"
+  },
+  {
+    "initial": "O",
+    "mean": "n.注意;观察;观察力",
+    "phonetic_symbol": "/obzə:’veiʃən/",
+    "word": "observation"
+  },
+  {
+    "initial": "O",
+    "mean": "vt.遵守;看到;说",
+    "phonetic_symbol": "/əb’zə:v/",
+    "word": "observe"
+  },
+  {
+    "initial": "O",
+    "mean": "n.观察员，观测者",
+    "phonetic_symbol": "/əb’zə:və/",
+    "word": "observer"
+  },
+  {
+    "initial": "O",
+    "mean": "n.障碍，障碍物，妨害",
+    "phonetic_symbol": "/‘obstəkl/",
+    "word": "obstacle"
+  },
+  {
+    "initial": "O",
+    "mean": "vt.获得，得到，买到",
+    "phonetic_symbol": "/əb’tein/",
+    "word": "obtain"
+  },
+  {
+    "initial": "O",
+    "mean": "a.明显的，显而易见的",
+    "phonetic_symbol": "/‘obviəs/",
+    "word": "obvious"
+  },
+  {
+    "initial": "O",
+    "mean": "n.场合，时刻;时机",
+    "phonetic_symbol": "/ə’keiʒən/",
+    "word": "occasion"
+  },
+  {
+    "initial": "O",
+    "mean": "a.偶然的;临时的",
+    "phonetic_symbol": "/ə’keiʒənəl/",
+    "word": "occasional"
+  },
+  {
+    "initial": "O",
+    "mean": "n.占领，占据;职业",
+    "phonetic_symbol": "/ɔkju’peiʃənl/",
+    "word": "occupation"
+  },
+  {
+    "initial": "O",
+    "mean": "vt.占领;占，占有",
+    "phonetic_symbol": "/‘ɔkjupəai/",
+    "word": "occupy"
+  },
+  {
+    "initial": "O",
+    "mean": "vi.发生;出现，存在",
+    "phonetic_symbol": "/ə’kə:/",
+    "word": "occur"
+  },
+  {
+    "initial": "O",
+    "mean": "n.发生，出现;事件",
+    "phonetic_symbol": "/ə’kΛrəns/",
+    "word": "occurrence"
+  },
+  {
+    "initial": "O",
+    "mean": "n.海洋;洋",
+    "phonetic_symbol": "/‘əuʃən/",
+    "word": "ocean"
+  },
+  {
+    "initial": "O",
+    "mean": "ad.…点钟",
+    "phonetic_symbol": "/ə’klɔk/",
+    "word": "o'clock"
+  },
+  {
+    "initial": "O",
+    "mean": "n.十月",
+    "phonetic_symbol": "/ɔk’təubə/",
+    "word": "October"
+  },
+  {
+    "initial": "O",
+    "mean": "a.奇数的;单只的",
+    "phonetic_symbol": "/od/",
+    "word": "odd"
+  },
+  {
+    "initial": "O",
+    "mean": "prep.…的;由于",
+    "phonetic_symbol": "/ɔv,əv/",
+    "word": "of"
+  },
+  {
+    "initial": "O",
+    "mean": "ad.(离)开;(停)止",
+    "phonetic_symbol": "/ɔ:f/",
+    "word": "off"
+  },
+  {
+    "initial": "O",
+    "mean": "vt.冒犯vi.犯过错",
+    "phonetic_symbol": "/ə’fend/",
+    "word": "offend"
+  },
+  {
+    "initial": "O",
+    "mean": "vt.提供;提出n.提供",
+    "phonetic_symbol": "/‘ɔfə/",
+    "word": "offer"
+  },
+  {
+    "initial": "O",
+    "mean": "n.办公室;处，局，社",
+    "phonetic_symbol": "/‘ɔfis/",
+    "word": "office"
+  },
+  {
+    "initial": "O",
+    "mean": "n.官员;干事;军官",
+    "phonetic_symbol": "/‘ɔfisə/",
+    "word": "officer"
+  },
+  {
+    "initial": "O",
+    "mean": "a.官员的;官方的",
+    "phonetic_symbol": "/ə’fiʃəl/",
+    "word": "official"
+  },
+  {
+    "initial": "O",
+    "mean": "ad.经常，常常",
+    "phonetic_symbol": "/‘ɔ:fn/",
+    "word": "often"
+  },
+  {
+    "initial": "O",
+    "mean": "int.嗬，哦，唉呀",
+    "phonetic_symbol": "/əu/",
+    "word": "oh"
+  },
+  {
+    "initial": "O",
+    "mean": "n.油;石油vt.加油于",
+    "phonetic_symbol": "/ɔil/",
+    "word": "oil"
+  },
+  {
+    "initial": "O",
+    "mean": "(缩作OK)a.&ad.对，好",
+    "phonetic_symbol": "/‘əu’kei/",
+    "word": "okay"
+  },
+  {
+    "initial": "O",
+    "mean": "a.老的;…岁的",
+    "phonetic_symbol": "/əuld/",
+    "word": "old"
+  },
+  {
+    "initial": "O",
+    "mean": "vt.省略，省去;遗漏",
+    "phonetic_symbol": "/əu’mit/",
+    "word": "omit"
+  },
+  {
+    "initial": "O",
+    "mean": "prep.在…上;在…旁",
+    "phonetic_symbol": "/on/",
+    "word": "on"
+  },
+  {
+    "initial": "O",
+    "mean": "ad.一次;曾经n.一次",
+    "phonetic_symbol": "/wΛns/",
+    "word": "once"
+  },
+  {
+    "initial": "O",
+    "mean": "num.一pron.一个人",
+    "phonetic_symbol": "/wΛn/",
+    "word": "one"
+  },
+  {
+    "initial": "O",
+    "mean": "pron.自己;亲自",
+    "phonetic_symbol": "/wΛn’self/",
+    "word": "oneself"
+  },
+  {
+    "initial": "O",
+    "mean": "n.洋葱，洋葱头",
+    "phonetic_symbol": "/‘Λnjən/",
+    "word": "onion"
+  },
+  {
+    "initial": "O",
+    "mean": "ad.只，仅仅a.唯一的",
+    "phonetic_symbol": "/‘əunli/",
+    "word": "only"
+  },
+  {
+    "initial": "O",
+    "mean": "prep.到…上",
+    "phonetic_symbol": "/‘ontu/",
+    "word": "onto"
+  },
+  {
+    "initial": "O",
+    "mean": "a.开的;开放的vt.开",
+    "phonetic_symbol": "/‘əupən/",
+    "word": "open"
+  },
+  {
+    "initial": "O",
+    "mean": "a.开始的n.开始",
+    "phonetic_symbol": "/‘əupəniŋ/",
+    "word": "opening"
+  },
+  {
+    "initial": "O",
+    "mean": "n.歌剧",
+    "phonetic_symbol": "/‘ɔpərə/",
+    "word": "opera"
+  },
+  {
+    "initial": "O",
+    "mean": "vi.操作;施行手术",
+    "phonetic_symbol": "/‘ɔpəreit/",
+    "word": "operate"
+  },
+  {
+    "initial": "O",
+    "mean": "n.操作;手术;运算",
+    "phonetic_symbol": "/ɔpə’reiʃən/",
+    "word": "operation"
+  },
+  {
+    "initial": "O",
+    "mean": "a.操作上的;可使用的",
+    "phonetic_symbol": "/ɔpə’reiʃənl/",
+    "word": "operational"
+  },
+  {
+    "initial": "O",
+    "mean": "n.操作人员，接线员",
+    "phonetic_symbol": "/‘ɔpəreitə/",
+    "word": "operator"
+  },
+  {
+    "initial": "O",
+    "mean": "n.意见，看法，主张",
+    "phonetic_symbol": "/ə’pinjən/",
+    "word": "opinion"
+  },
+  {
+    "initial": "O",
+    "mean": "n.对手，敌手;对抗者",
+    "phonetic_symbol": "/ə’pəunənt/",
+    "word": "opponent"
+  },
+  {
+    "initial": "O",
+    "mean": "n.机会，良机",
+    "phonetic_symbol": "/pə’tju:niti/",
+    "word": "opportunity"
+  },
+  {
+    "initial": "O",
+    "mean": "vt.反对;反抗",
+    "phonetic_symbol": "/ə’pəuz/",
+    "word": "oppose"
+  },
+  {
+    "initial": "O",
+    "mean": "a.对面的n.对立物",
+    "phonetic_symbol": "/‘ɔpəzit/",
+    "word": "opposite"
+  },
+  {
+    "initial": "O",
+    "mean": "a.眼的;光学的",
+    "phonetic_symbol": "/‘ɔptikəl/",
+    "word": "optical"
+  },
+  {
+    "initial": "O",
+    "mean": "a.乐观的;乐观主义的",
+    "phonetic_symbol": "/ɔptimistik/",
+    "word": "optimistic"
+  },
+  {
+    "initial": "O",
+    "mean": "a.可以任意选择的",
+    "phonetic_symbol": "/‘ɔpʃənl/",
+    "word": "optional"
+  },
+  {
+    "initial": "O",
+    "mean": "conj.或，或者;即",
+    "phonetic_symbol": "/ɔ:,ə/",
+    "word": "or"
+  },
+  {
+    "initial": "O",
+    "mean": "a.口头的;口的",
+    "phonetic_symbol": "/‘ɔ:rəl/",
+    "word": "oral"
+  },
+  {
+    "initial": "O",
+    "mean": "n.橙(树);柑(树)",
+    "phonetic_symbol": "/‘orindʒ/",
+    "word": "orange"
+  },
+  {
+    "initial": "O",
+    "mean": "n.运行轨道vt.环绕",
+    "phonetic_symbol": "/‘ɔ:bit/",
+    "word": "orbit"
+  },
+  {
+    "initial": "O",
+    "mean": "n.管弦乐队",
+    "phonetic_symbol": "/‘ɔ:kistrə/",
+    "word": "orchestra"
+  },
+  {
+    "initial": "O",
+    "mean": "n.次序;整齐vt.命令",
+    "phonetic_symbol": "/‘ɔ:də/",
+    "word": "order"
+  },
+  {
+    "initial": "O",
+    "mean": "a.整洁的;有秩序的",
+    "phonetic_symbol": "/‘ɔ:dəli/",
+    "word": "orderly"
+  },
+  {
+    "initial": "O",
+    "mean": "a.平常的;平凡的",
+    "phonetic_symbol": "/‘ɔ:dinəri/",
+    "word": "ordinary"
+  },
+  {
+    "initial": "O",
+    "mean": "n.矿，矿石，矿砂",
+    "phonetic_symbol": "/ɔ:/",
+    "word": "ore"
+  },
+  {
+    "initial": "O",
+    "mean": "n.器官;机构;管风琴",
+    "phonetic_symbol": "/‘ɔ:gən/",
+    "word": "organ"
+  },
+  {
+    "initial": "O",
+    "mean": "a.有机体的;器官的",
+    "phonetic_symbol": "/ɔ:’gænik/",
+    "word": "organic"
+  },
+  {
+    "initial": "O",
+    "mean": "n.生物体;有机体",
+    "phonetic_symbol": "/‘ɔ:gənizəm/",
+    "word": "organism"
+  },
+  {
+    "initial": "O",
+    "mean": "n.组织;团体，机构",
+    "phonetic_symbol": "/ɔ:gənai’zeiʃən/",
+    "word": "organization"
+  },
+  {
+    "initial": "O",
+    "mean": "vt.组织，编组",
+    "phonetic_symbol": "/‘ɔ:gənaiz/",
+    "word": "organize"
+  },
+  {
+    "initial": "O",
+    "mean": "n.起源，由来;出身",
+    "phonetic_symbol": "/‘oridʒin/",
+    "word": "origin"
+  },
+  {
+    "initial": "O",
+    "mean": "a.最初的;新颖的",
+    "phonetic_symbol": "/ə’ridʒənəl/",
+    "word": "original"
+  },
+  {
+    "initial": "O",
+    "mean": "a.另外的;其余的",
+    "phonetic_symbol": "/‘Λðə/",
+    "word": "other"
+  },
+  {
+    "initial": "O",
+    "mean": "ad.另外;要不然",
+    "phonetic_symbol": "/‘Λðəwaiz/",
+    "word": "otherwise"
+  },
+  {
+    "initial": "O",
+    "mean": "v.aux.应当，应该",
+    "phonetic_symbol": "/ɔ:t/",
+    "word": "ought"
+  },
+  {
+    "initial": "O",
+    "mean": "n.盎司，英两",
+    "phonetic_symbol": "/auns/",
+    "word": "ounce"
+  },
+  {
+    "initial": "O",
+    "mean": "pron.我们的",
+    "phonetic_symbol": "/‘auə/",
+    "word": "our"
+  },
+  {
+    "initial": "O",
+    "mean": "pron.我们的",
+    "phonetic_symbol": "/‘auəz/",
+    "word": "ours"
+  },
+  {
+    "initial": "O",
+    "mean": "pron.我们自己",
+    "phonetic_symbol": "/auə’selvz/",
+    "word": "ourselves"
+  },
+  {
+    "initial": "O",
+    "mean": "ad.出，在外;现出来",
+    "phonetic_symbol": "/aut/",
+    "word": "out"
+  },
+  {
+    "initial": "O",
+    "mean": "n.结果，后果，成果",
+    "phonetic_symbol": "/‘autkəm/",
+    "word": "outcome"
+  },
+  {
+    "initial": "O",
+    "mean": "ad.在户外，在野外",
+    "phonetic_symbol": "/‘aut’dɔ:z/",
+    "word": "outdoors"
+  },
+  {
+    "initial": "O",
+    "mean": "a.外部的，外面的",
+    "phonetic_symbol": "/‘autə/",
+    "word": "outer"
+  },
+  {
+    "initial": "O",
+    "mean": "n.出口，出路;排遣",
+    "phonetic_symbol": "/‘aut-let/",
+    "word": "outlet"
+  },
+  {
+    "initial": "O",
+    "mean": "n.轮廓;略图;大纲",
+    "phonetic_symbol": "/‘aut-lain/",
+    "word": "outline"
+  },
+  {
+    "initial": "O",
+    "mean": "n.观点，看法;展望",
+    "phonetic_symbol": "/‘aut-luk/",
+    "word": "outlook"
+  },
+  {
+    "initial": "O",
+    "mean": "n.产量;输出量;输出",
+    "phonetic_symbol": "/‘autput/",
+    "word": "output"
+  },
+  {
+    "initial": "O",
+    "mean": "n.开始，开端",
+    "phonetic_symbol": "/‘aut-set/",
+    "word": "outset"
+  },
+  {
+    "initial": "O",
+    "mean": "n.外部;外表a.外部的",
+    "phonetic_symbol": "/‘aut’said/",
+    "word": "outside"
+  },
+  {
+    "initial": "O",
+    "mean": "a.突出的，杰出的",
+    "phonetic_symbol": "/aut’stændiŋ/",
+    "word": "outstanding"
+  },
+  {
+    "initial": "O",
+    "mean": "a.外面的;向外的",
+    "phonetic_symbol": "/‘autwəd/",
+    "word": "outward"
+  },
+  {
+    "initial": "O",
+    "mean": "n.炉，灶;烘箱",
+    "phonetic_symbol": "/‘Λvn/",
+    "word": "oven"
+  },
+  {
+    "initial": "O",
+    "mean": "prep.在…上方;超过",
+    "phonetic_symbol": "/‘əuvə/",
+    "word": "over"
+  },
+  {
+    "initial": "O",
+    "mean": "n.工装裤a.全面的",
+    "phonetic_symbol": "/‘əuvərɔ:l/",
+    "word": "overall"
+  },
+  {
+    "initial": "O",
+    "mean": "n.外衣，大衣",
+    "phonetic_symbol": "/‘əuvəkəut/",
+    "word": "overcoat"
+  },
+  {
+    "initial": "O",
+    "mean": "vt.战胜，克服",
+    "phonetic_symbol": "/əuvə’kΛm/",
+    "word": "overcome"
+  },
+  {
+    "initial": "O",
+    "mean": "a.在头顶上的;架空的",
+    "phonetic_symbol": "/‘əuvə’hed,‘əuvəhed/",
+    "word": "overhead"
+  },
+  {
+    "initial": "O",
+    "mean": "vt.眺望;看漏;放任",
+    "phonetic_symbol": "/əuvə’luk/",
+    "word": "overlook"
+  },
+  {
+    "initial": "O",
+    "mean": "ad.一夜;突然",
+    "phonetic_symbol": "/‘əuvənait/",
+    "word": "overnight"
+  },
+  {
+    "initial": "O",
+    "mean": "ad.海外a.在海外的",
+    "phonetic_symbol": "/‘əuve’si:z/",
+    "word": "overseas"
+  },
+  {
+    "initial": "O",
+    "mean": "vt.追上，赶上;压倒",
+    "phonetic_symbol": "/əuvə’teik/",
+    "word": "overtake"
+  },
+  {
+    "initial": "O",
+    "mean": "vt.欠;应把…归功于",
+    "phonetic_symbol": "/əu/",
+    "word": "owe"
+  },
+  {
+    "initial": "O",
+    "mean": "n.猫头鹰，枭",
+    "phonetic_symbol": "/aul/",
+    "word": "owl"
+  },
+  {
+    "initial": "O",
+    "mean": "a.自己的vt.有，拥有",
+    "phonetic_symbol": "/əun/",
+    "word": "own"
+  },
+  {
+    "initial": "O",
+    "mean": "n.物主，所有人",
+    "phonetic_symbol": "/‘əunə/",
+    "word": "owner"
+  },
+  {
+    "initial": "O",
+    "mean": "n.所有(权)，所有制",
+    "phonetic_symbol": "/‘əunəʃip/",
+    "word": "ownership"
+  },
+  {
+    "initial": "O",
+    "mean": "n.牛;公牛，阉牛",
+    "phonetic_symbol": "/ɔks/",
+    "word": "ox"
+  },
+  {
+    "initial": "O",
+    "mean": "n.氧气",
+    "phonetic_symbol": "/‘ɔksidʒən/",
+    "word": "oxygen"
+  }
+]

@@ -5,7 +5,7 @@
 
 ## 实现数据类型
 - 文本文件 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; :white_check_mark:
-- JSON &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; :negative_squared_cross_mark:
+- JSON &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; :white_check_mark:
 - XML &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; :negative_squared_cross_mark:
 - Oracle文件 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; :negative_squared_cross_mark:
 - Mysql文件 &thinsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; :negative_squared_cross_mark:
@@ -22,6 +22,7 @@
 │   ├── A.txt   
 │   ├── B.txt  
 │   └── ...  
+├── JSON  //JSON文件的单词库    
 └── SQLServer // SQL server单词库  
   ├── Words.mdf // 数据库文件  
   └── Words_log.ldf // 日志文件  
